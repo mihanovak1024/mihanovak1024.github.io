@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "mihanovak1024"
 title_separator          : "-"
-subtitle                 : "Mobile developer"
+subtitle                 : ""
 name                     : "Miha Novak"
 description              : "Mobile developer, prototyper, uncle of four"
 url                      : "https://www.mihanovak1024.com"
@@ -108,22 +108,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/mihanovak1024"
-
-# Site Footer
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:miha.novak1024@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mihanovak1024"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mihanovak1024"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/mihanovak1024"
 
 
 # Reading Files
