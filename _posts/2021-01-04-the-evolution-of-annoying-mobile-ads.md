@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Annoying Mobile Ads"
 categories:
-  - Mobile advertisement
+  - mobile-advertisement
 header:
   image: /assets/images/post1-2021-01-04/mobile-advertisement-header.jpg
 smaato-logo:
@@ -100,7 +100,6 @@ Quite a lot of new advertisement companies popped up when people saw the traject
 
 In short; advertisement companies, also known as advertisers, get the advertisement material from companies that want to advertise their products, such as CocaCola, Adidas,...,
 and these advertisers then find the best sources to advertise these products. One of these sources being mobile phones, or more specifically applications installed on them.
-
 {% include gallery id="mobile-ad-format-video-ad-examples" caption="Example of Mobile Video Ads ([source](https://sixmilemedia.com/2019/09/17/best-mobile-ad-formats-for-display-advertising-campaigns/))" %}
 
 ### Ad Formats
@@ -145,8 +144,7 @@ since they didn't know whether they should focus on mobile web apps or mobile na
 The popularity was driven by the shorter and cheaper development cycle, since companies wouldn't need 
 native Android and iOS developers, instead they would just have one proficient web developer with basic knowledge
 of native Android and iOS to make a functional mobile web app. 
-
- {% include gallery id="facebook-native-vs-web-app" caption="Facebook Mobile Native App vs Web App 2012" %}
+{% include gallery id="facebook-native-vs-web-app" caption="Facebook Mobile Native App vs Web App 2012" %}
 
 ### Ad SDKs
 An Ad SDK (Software Development Kit) is essentially a package of code that a developer includes in it's own game 
@@ -162,7 +160,6 @@ If, by any chance, you didn't know this: AdMob is currently (2021) one of the la
 
 Report from [TechCrunch's article](https://techcrunch.com/2011/11/17/admob-dominates-android-ad-network-market-share/) in 2011: 
 "_In the group containing just the top 1,000 ad-supported (Android) apps, 89% used AdMob’s SDK, 34% used Millennial Media’s SDK, 22% used Inmobi, 19% used AdWhirl and 15% used Mobclix._".
-
 {% include gallery id="admob-sdk-domination-2011" caption="AdMob SDK Domination 2011" %}
 
 Report from a different [TechCrunch's article](https://techcrunch.com/2011/12/08/chartboost-expands-its-direct-deals-marketplace-to-android/) in 2011:
@@ -242,5 +239,4 @@ It will surely be quite interesting to see what the future of mobile advertiseme
 ---
 
 #### Thanks for reading and have a good one! 
-
 {% include gallery id="goodbye" %}
