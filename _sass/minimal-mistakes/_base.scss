@@ -264,8 +264,11 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: $muted-text-color;
+  opacity: 0.70;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
+  padding-left: 4em;
+  padding-right: 4em;
 
   a {
     -webkit-transition: $global-transition;
