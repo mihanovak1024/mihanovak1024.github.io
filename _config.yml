@@ -20,7 +20,7 @@ title                    : "mihanovak1024"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Miha Novak"
-description              : "Mobile developer, prototyper, uncle of four"
+description              : "Ad Tech Mobile developer , prototyper, uncle of four"
 url                      : "https://www.mihanovak1024.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Miha Novak"
   avatar           : "/assets/images/mihanovak1024.jpg"
-  bio              : "Mobile developer, prototyper, _uncle of four_"
+  bio              : "Ad Tech Mobile developer, prototyper, _uncle of four_"
   location         : "Slovenia, Europe"
   email            : "miha.novak1024@gmail.com"
   links:
