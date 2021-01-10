@@ -34,7 +34,21 @@ ios-vs-android-2011:
     alt: "iOS vs Android CTR"
   - image_path: /assets/images/post1-2021-01-04/ios-vs-android-fill-rate-2011.png
     alt: "iOS vs Android Fill Rate"
-
+top-mobile-ad-sdks-2018:
+  - image_path: /assets/images/post1-2021-01-04/top-mobile-ad-sdks-2018.png
+    alt: "Top Mobile Ad SDKs"
+most-effective-ad-formats-2019:
+  - image_path: /assets/images/post1-2021-01-04/most-effective-ad-formats-2019.png
+    alt: "Top Ad Formats 2019"
+mobile-ad-spending-2020:
+  - image_path: /assets/images/post1-2021-01-04/mobile-ad-spending-2020.png
+    alt: "Mobile Ad Spending in 2020"
+start-of-header-bidding-2018:
+  - image_path: /assets/images/post1-2021-01-04/start-of-header-bidding-2018.png
+    alt: "Start of header bidding 2018"
+ios-vs-android-ad-formats-2020:
+  - image_path: /assets/images/post1-2021-01-04/ios-vs-android-ad-formats-2020.png
+    alt: "iOS vs Android Ad Formats 2020"
 tags:
   - mobile
   - android
@@ -51,7 +65,7 @@ I'll be focusing purely on the mobile ecosystem; so here it goes.
 
 Mobile advertisement got stronger with better mobile devices on the market; a better device means better hardware and software,
 which leads to more sophisticated ads; from static images to interactive ads to video and finally playables.
-Yes, **playables**; ads where you actually play a mini/demo game embedded into an ad view, which triggers your interest of the advertised game and you actually install it.
+Yes, **playables**; ads where you actually play a mini/demo game embedded into an ad view, which triggers your interest in the advertised game and you actually install it.
 
 ## Around 2010
 Ads were present from the very beginning of smartphone existence.
@@ -61,7 +75,7 @@ Ads were present from the very beginning of smartphone existence.
 Besides premium mobile apps, the ones that can be installed only after payment, 
 the other way app developers could monetise their games was through in-app advertisement.
 
-### Ad Types
+### Ad Formats
 
 Since there were constraints of mobile data transfer limits and internet speed, the ads weren't as beautiful as they are nowadays (although it doesn't make them any less annoying).
 Advertising agencies needed to adapt to the device limits at that time, thus only certain ad types were meaningful; the ones that were the most optimised in terms of size and complexity/performance.
@@ -75,7 +89,7 @@ Here's an example of Google's in-app advertisement:
 {% include gallery id="google-mobile-ads-2010" caption="Google's In-app Ads in 2010 when ads were mostly in banner format" %}
 
 As companies noticed the rise of smartphone popularity, quite a few mobile advertisement agencies and ad networks were born in 2010.
-Each company wanted to get a leading edge in the sea of competition in advertisement space, thus each introduced new or improved concepts.
+Each company wanted to get the leading edge in the sea of competition in advertisement space, thus each introduced new or improved concepts.
 A good example is InMobi's [introduction to tablet banners](https://www.inmobi.com/blog/2010/11/24/Introducing-Banners-for-Tablets-Including-iPads): "_Introducing Banners For Tablets Including iPads_",
 since tablets like Apple's iPad and Samsung's Galaxy Tab started to gain traction.
 
@@ -103,13 +117,13 @@ of native Android and iOS to make a functional mobile web app.
 An Ad SDK (Software Development Kit) is essentially a package of code that a developer includes in it's own game 
 which enables the app to start serving ads from the SDK Ad Provider (AdMob, Applovin, Smaato, Chartboost,...) 
 without any special technical config.
-SDKs were and still are the most popular in Mobile advertisement sphere having a really big share in mobile advertisement compared to S2S (server-to-server) implementation.
+SDKs were and still are the most popular in the Mobile advertisement sphere having a really big share in mobile advertisement compared to S2S (server-to-server) implementation.
 Though, some S2S ad providers would [preach](https://pubnative.net/blog/api-sdk-mobile-ad-monetization/) S2S implementation is better than SDKs, 
-from publisher's perspective the SDK implementation is easier as Ad Provider is responsible for all technical updates to Ad serving and displaying.  
+from the publisher's perspective the SDK implementation is easier as the Ad Provider is responsible for all technical updates to Ad serving and displaying.  
 
 You know things started to get serious when Google makes their move.
 In 2010 Google published an article titled "[_We’ve officially acquired AdMob!_](https://googleblog.blogspot.com/2010/05/weve-officially-acquired-admob.html)".
-If, by any chance, you didn't know this: AdMob is currently (2021) one of the largest, if not the largest, mobile ad networks in mobile advertisement space.
+If, by any chance, you didn't know this: AdMob is currently (2021) one of the largest, if not the largest, mobile ad networks in the mobile advertisement space.
 
 Report from [TechCrunch's article](https://techcrunch.com/2011/11/17/admob-dominates-android-ad-network-market-share/) in 2011: 
 "_In the group containing just the top 1,000 ad-supported (Android) apps, 89% used AdMob’s SDK, 34% used Millennial Media’s SDK, 22% used Inmobi, 19% used AdWhirl and 15% used Mobclix._".
@@ -119,15 +133,15 @@ Report from a different [TechCrunch's article](https://techcrunch.com/2011/12/08
 Just for reference, [Chartboost](https://www.chartboost.com/) is one of the most popular Mobile Ad SDKs in 2020.
 
 ### Ad Spending
-Mobile ad spending reached it's highs each year:
+Mobile ad spending reached its highs each year:
 {% include gallery id="mobile-ad-spending-2007-2021" caption="Mobile Ad Spending from 2007 to 2020 in millions $$$ (from [Statista](https://www.statista.com/statistics/303817/mobile-internet-advertising-revenue-worldwide/))" %}
 
 ### Devices
 A few introductory explanation:
 - CPM (cost per mile) --- an amount of money the advertiser is willing to pay for 1000 impressions.
-  Impression means that the ad was actually displayed to the user (for example a fullscreen interstitial pops up). 
+  Impression means that the ad was actually displayed to the user (for example a full screen interstitial pops up). 
 - CTR (click through rate) --- number of clicks per shown ad
-- Fill rate --- when app makes a http request to ad provider's side requesting for an ad, this ad provider might or might not have an ad ready for the current user/device/app.
+- Fill rate --- when an app makes a http request to the ad provider's side requesting for an ad, this ad provider might or might not have an ad ready for the current user/device/app.
 
 Apple products were treated as premium devices, causing quite higher CPMs compared to more accessible Android devices, 
 which were significantly cheaper in terms of device price tag.
@@ -139,10 +153,49 @@ meaning the ad would be much more effective for these users.
 Apple devices do have higher CPMs, but Android devices dominate in CTR and Fill Rate as seen below:
 {% include gallery id="ios-vs-android-2011" caption="Mobile Ad Exchange Inneractive iOS vs Android data from 2011 (from [article](https://www.theatlantic.com/technology/archive/2011/07/infographic-android-vs-apples-ios-in-mobile-advertising/242451/))" %}
 
-## Ads in 2020
+## Ads around 2020
+Ten years is quite a long period in technological advancement.
+Mobile devices were subjects of significant hardware and software development and some new mobile development companies 
+got popular such as OnePlus, Xiaomi, ... compared to 10 years ago, when these names were not that significant or didn't even exist.
 
-From 2018 to 2020 the quality of mobile devices started to increase and Apple finally got a bit of competition.
+Mobile advertisement has again seen new highs in terms of ad spending and mobile platforms became one of the most desirable for advertisers.  
+
+### Ad Formats
+Since mobile devices got really powerful in terms of hardware and software and data transfer limits are almost limitless, mobile advertising is no longer a problem
+and ad creators are no longer bound to strict size limits and performance, thus more sophisticated ad formats became popular:
+{% include gallery id="most-effective-ad-formats-2019" caption="Top Mobile Ad Formats 2019 according to [Hackernoon report](https://hackernoon.com/in-app-advertising-checklist-2020-edition-xw7436vy)" %}
+
+### Ad SDKs
+
+As we can imagine, Google is still dominating the Mobile SDK Ad space.
+Apart from Google others are not that much different from one another in terms of popularity:
+{% include gallery id="top-mobile-ad-sdks-2018" caption="Top Mobile Ad SDKs 2018 according to SafeDK report" %}
+
+### Ad Spending
+
+Mobile Ad spending reached new highs yet again and projections show only a year over year increase per PubMatic's report:
+{% include gallery id="mobile-ad-spending-2020" caption="Mobile Ad Spending from 2019 to 2023 in billions $$$ (from PubMatic report)" %}
+
+In the beginning of 2018 a new advertising solution started to liftoff; header bidding. 
+Although it is present on desktop web for quite a long time, publishers and advertisers showed interest in it on mobile.
+According to [PubMatic](https://pubmatic.com/) header bidding has seen average uplifts of 100+ % quarterly:
+{% include gallery id="start-of-header-bidding-2018" caption="Header bidding liftoff in 2018 according to PubMatic report" %}
+
+### Devices
+
+From 2018 to 2021 the quality of mobile devices started to increase and Apple finally got a bit of competition.
 Up until this point Apple was considered as a premium mobile device provided, but companies like Samsung, OnePlus, ... started
 producing their own high end smartphones getting closer to Apple in terms of device quality, performance and even price range.
 
-   
+[Venturebeat article](https://venturebeat.com/2020/02/12/liftoff-2020-may-be-the-year-android-ad-revenue-eclipses-ios/) made a bold statement
+that Android in-app revenue might surpass iOS, but even if it didn't, Android sure as hell came very close.
+{% include gallery id="ios-vs-android-ad-formats-2020" caption="iOS vs Android Ad Format Revenue 2020 according to Liftoff report ([Venturebeat article](https://venturebeat.com/2020/02/12/liftoff-2020-may-be-the-year-android-ad-revenue-eclipses-ios/)" %}
+
+
+## Conclusion
+
+Mobile advertising spending is increasing year over year and since Mobile app stores (Apple's AppStore and Google's GooglePlay) 
+strive towards higher in-app purchase cuts, ads won't be obsolete anytime soon.
+
+Mobile devices are getting better and better and data transferred is getting cheaper and limitless, which enables 
+mobile ad creative developers to create ad creatives of higher quality which make them more desirable towards the end user.  
