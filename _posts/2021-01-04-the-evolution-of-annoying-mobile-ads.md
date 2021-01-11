@@ -10,10 +10,7 @@ smaato-logo:
     alt: "Smaato logo"
   - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
 google-mobile-ads-2010:
-  - image_path: /assets/images/post1-2021-01-04/google-mobile-ads-2010-img1.png
-    alt: "Google mobile ads 2010"
-  - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
-  - image_path: /assets/images/post1-2021-01-04/google-mobile-ads-2010-img2.png
+  - image_path: /assets/images/post1-2021-01-04/google-mobile-ads-2010.png
     alt: "Google mobile ads 2010"
 static-vs-rich-media-2018:
   - image_path: /assets/images/post1-2021-01-04/static-vs-rich-media-2018.png
