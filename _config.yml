@@ -95,7 +95,9 @@ analytics:
 author:
   name             : "Miha Novak"
   avatar           : "/assets/images/about/miha_square.jpg"
+  avatar_smile     : "/assets/images/about/miha_square_smile.jpg"
   bio              : "Ad Tech Mobile developer, prototyper, _uncle of four_"
+  home             : "/about"
   location         : "Slovenia, Europe"
   email            : "miha.novak1024@gmail.com"
   links:

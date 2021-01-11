@@ -7,10 +7,18 @@
     <div class="author__avatar">
       {% if author.home %}
         <a href="{{ author.home | relative_url }}">
-          <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+          {% if author.avatar_smile %}
+            <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" onMouseOver="this.src='{{ author.avatar_smile | relative_url }}'" onMouseOut="this.src='{{ author.avatar | relative_url }}'">
+          {% else %}
+            <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+          {% endif %}
         </a>
       {% else %}
+        {% if author.avatar_smile %}
+        <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" onMouseOver="this.src='{{ author.avatar_smile | relative_url }}'" onMouseOut="this.src='{{ author.avatar | relative_url }}'">
+        {% else %}
         <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
+        {% endif %}
       {% endif %}
     </div>
   {% endif %}
@@ -22,9 +30,17 @@
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <div class="author__bio" itemprop="description">
-        {{ author.bio | markdownify }}
-      </div>
+      {% if author.home %}
+        <a href="{{ author.home | relative_url }}">
+          <div class="author__bio" itemprop="description">
+            {{ author.bio | markdownify }}
+          </div>
+        </a>
+      {% else %}
+        <div class="author__bio" itemprop="description">
+          {{ author.bio | markdownify }}
+        </div>
+      {% endif %}
     {% endif %}
   </div>
 
