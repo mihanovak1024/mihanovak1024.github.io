@@ -2,6 +2,9 @@
 permalink: /about/
 title: "About"
 excerpt: "So yeah... I'm a 25 year old (mostly) Android developer based in Slovenia, Europe."
+profile-photo:
+  - image_path: /assets/images/about/miha_classy.jpg
+    alt: "Profile photo"
 ---
 
 So yeah... My name is Miha Novak (it's a **male** name, I shit you not) and I'm a 25 year old (_mostly_) Android developer based in Slovenia, Europe.
@@ -10,6 +13,8 @@ I've been programming professionally since my **20th** birthday.
 
 The number **1024** comes from a University codename next to my initials and I'm so fond of it, 
 I decided to use it everywhere, so it kind of became my signature.
+
+{% include gallery id="profile-photo" %}
 
 ## Prototypes
 I like to tinker a bit around different programming challenges and try to prototype my ideas.
