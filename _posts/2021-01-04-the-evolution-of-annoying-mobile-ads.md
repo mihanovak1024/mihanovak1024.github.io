@@ -1,9 +1,9 @@
 ---
 title: "The Evolution of Annoying Mobile Ads"
 categories:
-  - mobile-advertisement
+  - mobile-advertising
 header:
-  image: /assets/images/post1-2021-01-04/mobile-advertisement-header.jpg
+  image: /assets/images/post1-2021-01-04/mobile-advertising-header.jpg
 smaato-logo:
   - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
   - image_path: /assets/images/post1-2021-01-04/smaato-logo.png
@@ -62,7 +62,7 @@ tags:
   - mobile
   - android
   - ios
-  - advertisement
+  - advertising
   - adtech
 ---
 
@@ -72,7 +72,7 @@ I'll be focusing purely on the mobile ecosystem; so here it goes.
 
 ### Introduction
 
-Mobile advertisement got stronger with better mobile devices on the market; a better device means better hardware and software,
+Mobile advertising got stronger with better mobile devices on the market; a better device means better hardware and software,
 which leads to more sophisticated ads; from static images to interactive ads to video and finally playables.
 Yes, **playables**; ads where you actually play a mini/demo game embedded into an ad view, which triggers your interest in the advertised game and you actually install it.
 
@@ -81,39 +81,39 @@ whether it's installing an app, buying baby diapers or reserving a flight to Dub
 
 Today it's a lot easier to create quality ads as there's no much restraints in terms of mobile device hardware and data transfer limits.
 
-I'll talk about the ~10 year difference in advertisement space in terms of advertiser spending, ad formats, mobile devices and some other advertisement related topics.
+I'll talk about the ~10 year difference in advertising space in terms of advertiser spending, ad formats, mobile devices and some other advertising related topics.
 
 Buckle up, there's gonna be a few charts.    
 
 ## Around 2010
 How to monetise a mobile application?
 Besides premium mobile apps, the ones that can be installed only after payment, 
-another way app developers could monetise their games is through in-app advertisement.
+another way app developers could monetise their games is through in-app advertising.
 
 Ads were present from the very beginning of smartphone existence.
 
-Quite a lot of new advertisement companies popped up when people saw the trajectory mobile development is heading.
-{% include gallery id="smaato-logo" caption="Mobile advertisement company [Smaato](https://www.smaato.com/): \"_We were founded in 2005 as a mobile-first company when few businesses were even thinking about mobile._\"" %}
+Quite a lot of new advertising companies popped up when people saw the trajectory mobile development is heading.
+{% include gallery id="smaato-logo" caption="Mobile advertising company [Smaato](https://www.smaato.com/): \"_We were founded in 2005 as a mobile-first company when few businesses were even thinking about mobile._\"" %}
 
-In short; advertisement companies, also known as advertisers, get the advertisement material from companies that want to advertise their products, such as CocaCola, Adidas,...,
+In short; advertising companies, also known as advertisers, get the advertising material from companies that want to advertise their products, such as CocaCola, Adidas,...,
 and these advertisers then find the best sources to advertise these products. One of these sources being mobile phones, or more specifically applications installed on them.
 {% include gallery id="mobile-ad-format-video-ad-examples" caption="Example of Mobile Video Ads ([source](https://sixmilemedia.com/2019/09/17/best-mobile-ad-formats-for-display-advertising-campaigns/))" %}
 
 ### Ad Formats
 
 Since there were constraints of mobile data transfer limits and internet speed, the ads weren't as beautiful as they are nowadays (although it doesn't make them any less annoying).
-Advertisement agencies had to adapt to the device limits at that time, thus only certain ad types were meaningful; the ones that were the most optimised in terms of size and complexity/performance.
+advertising agencies had to adapt to the device limits at that time, thus only certain ad types were meaningful; the ones that were the most optimised in terms of size and complexity/performance.
 The most popular ad type at that time were **banners**, since they had small sizes and were lightweight. 
 
 Other types, such as videos, were quite tricky for advertisers as there was such a huge spectre of different screen sizes and resolutions out in the open.
 Video format gained popularity in the later years when mobile devices became better and mobile data transfer became cheaper and more attainable to the broader public.  
 
 Along with everything else that was different from today, banners also looked quite poorly compared to the ones used nowadays.
-Here's an example of Google's in-app advertisement:
+Here's an example of Google's in-app advertising:
 {% include gallery id="google-mobile-ads-2010" caption="Google's In-app Ads in 2010 when ads were mostly in banner format" %}
 
-As companies noticed the rise of smartphone popularity, quite a few mobile advertisement agencies and ad networks were born in 2010.
-Each company wanted to get the leading edge in the sea of competition in advertisement space, thus each introduced new or improved concepts.
+As companies noticed the rise of smartphone popularity, quite a few mobile advertising agencies and ad networks were born in 2010.
+Each company wanted to get the leading edge in the sea of competition in advertising space, thus each introduced new or improved concepts.
 A good example is InMobi's [introduction to tablet banners](https://www.inmobi.com/blog/2010/11/24/Introducing-Banners-for-Tablets-Including-iPads): "_Introducing Banners For Tablets Including iPads_",
 since tablets such as Apple's iPad and Samsung's Galaxy Tab started to gain traction.
 
@@ -147,13 +147,13 @@ of native Android and iOS to make a functional mobile web app.
 An Ad SDK (Software Development Kit) is essentially a package of code that a developer includes in it's own game 
 which enables the app to start serving ads from the SDK Ad Provider (AdMob, Applovin, Smaato, Chartboost,...) 
 without any special technical config.
-SDKs were and still are the most popular in the Mobile advertisement sphere having a really big share in mobile advertisement compared to S2S (server-to-server) implementation.
+SDKs were and still are the most popular in the Mobile advertising sphere having a really big share in mobile advertising compared to S2S (server-to-server) implementation.
 Though, some S2S ad providers would [preach](https://pubnative.net/blog/api-sdk-mobile-ad-monetization/) S2S implementation is better than SDKs, 
 from the publisher's perspective the SDK implementation is easier as the Ad Provider is responsible for all technical updates to Ad serving and displaying.  
 
 You know things started to get serious when Google makes their move.
 In 2010 Google published an article titled "[_We’ve officially acquired AdMob!_](https://googleblog.blogspot.com/2010/05/weve-officially-acquired-admob.html)".
-If, by any chance, you didn't know this: AdMob is currently (2021) one of the largest, if not the largest, mobile ad networks in the mobile advertisement space.
+If, by any chance, you didn't know this: AdMob is currently (2021) one of the largest, if not the largest, mobile ad networks in the mobile advertising space.
 
 Report from [TechCrunch's article](https://techcrunch.com/2011/11/17/admob-dominates-android-ad-network-market-share/) in 2011: 
 "_In the group containing just the top 1,000 ad-supported (Android) apps, 89% used AdMob’s SDK, 34% used Millennial Media’s SDK, 22% used Inmobi, 19% used AdWhirl and 15% used Mobclix._".
@@ -189,10 +189,10 @@ Ten years is quite a long period in technological advancement.
 Mobile devices were subjects of significant hardware and software development and some new mobile manufacturing companies 
 got popular such as OnePlus, Xiaomi, ... compared to 10 years ago, when these names were not that significant or didn't even exist.
 
-Mobile advertisement has again seen new highs in terms of ad spending and mobile platforms became one of the most desirable for advertisers.  
+Mobile advertising has again seen new highs in terms of ad spending and mobile platforms became one of the most desirable for advertisers.  
 
 ### Ad Formats
-Since mobile devices got really powerful in terms of hardware and software and data transfer limits are almost limitless, mobile advertisement is no longer a problem
+Since mobile devices got really powerful in terms of hardware and software and data transfer limits are almost limitless, mobile advertising is no longer a problem
 and ad creators are no longer bound to strict size limits and performance, thus more sophisticated ad formats became popular:
 {% include gallery id="most-effective-ad-formats-2019" caption="Top Mobile Ad Formats 2019 according to [Hackernoon report](https://hackernoon.com/in-app-advertising-checklist-2020-edition-xw7436vy)" %}
 
@@ -207,7 +207,7 @@ Apart from Google, others are not that much different from one another in terms 
 Mobile Ad spending reached new highs yet again and projections show consequential year over year increases per PubMatic's report:
 {% include gallery id="mobile-ad-spending-2020" caption="Mobile Ad Spending from 2019 to 2023 in billions $$$ (from PubMatic report)" %}
 
-In the beginning of 2018 a new advertisement solution started to liftoff; **header bidding**. 
+In the beginning of 2018 a new advertising solution started to liftoff; **header bidding**. 
 Although it has been present on desktop web for quite a while now, publishers and advertisers showed interest in it on mobile.
 According to [PubMatic](https://pubmatic.com/) header bidding in America has seen uplifts of more than 300% in 2018:
 {% include gallery id="start-of-header-bidding-2018" caption="Header bidding liftoff in 2018 according to PubMatic report" %}
@@ -225,13 +225,13 @@ that Android in-app revenue might surpass iOS, but even if it didn't, Android su
 
 ## Conclusion
 
-Mobile advertisement spending is increasing year over year and since Mobile app stores (Apple's AppStore and Google's GooglePlay) 
+Mobile advertising spending is increasing year over year and since Mobile app stores (Apple's AppStore and Google's GooglePlay) 
 strive towards higher in-app purchase cuts, ads won't be obsolete anytime soon.
 
 Mobile devices are getting better and better and data transfer is getting cheaper and almost limitless, which enables 
 mobile ad creative developers to create ad creatives of higher quality which make them more desirable towards the end user.
 
-It will surely be quite interesting to see what the future of mobile advertisement brings.
+It will surely be quite interesting to see what the future of mobile advertising brings.
 
 ---
 
