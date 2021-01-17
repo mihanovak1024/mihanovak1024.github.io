@@ -236,5 +236,5 @@ It will surely be quite interesting to see what the future of mobile advertising
 
 ---
 
-#### Thanks for reading and have a good one! 
+<center style="color:#00adb5"><b><i>Thanks for reading and have a good one!</i></b></center> 
 {% include gallery id="goodbye" %}
