@@ -4,6 +4,7 @@ categories:
   - mobile-advertising
 header:
   image: /assets/images/post1-2021-01-04/mobile-advertising-header.jpg
+  teaser: /assets/images/post1-2021-01-04/teaser.png
 smaato-logo:
   - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
   - image_path: /assets/images/post1-2021-01-04/smaato-logo.png
