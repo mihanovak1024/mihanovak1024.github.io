@@ -4,6 +4,7 @@ categories:
   - mobile-advertising
 header:
   image: /assets/images/post1-2021-01-04/mobile-advertising-header.jpg
+  teaser: /assets/images/post1-2021-01-04/teaser.png
 smaato-logo:
   - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
   - image_path: /assets/images/post1-2021-01-04/smaato-logo.png
@@ -235,5 +236,5 @@ It will surely be quite interesting to see what the future of mobile advertising
 
 ---
 
-#### Thanks for reading and have a good one! 
+<center style="color:#00adb5"><b><i>Thanks for reading and have a good one!</i></b></center> 
 {% include gallery id="goodbye" %}
