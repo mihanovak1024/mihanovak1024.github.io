@@ -8,7 +8,7 @@ sidebar:
   - title: "Languages"
     text: "Java, Kotlin"
   - title: "Backend"
-    text: "Wildfly/JBoss on DigitalOcean Droplet, JAX-RS, EclipseLink JPA, PostgreSQL, JSoup"
+    text: "Wildfly/JBoss on DigitalOcean Droplet, JAX-RS, EclipseLink JPA, PostgreSQL, JSoup, tmux, Bash, Cron"
   - title: "Client"
     text: "Android native app - Kotlin, AndroidX, MVVM, OKHttp, Dagger2, ViewBinding, ConstraintLayout"
 ---
