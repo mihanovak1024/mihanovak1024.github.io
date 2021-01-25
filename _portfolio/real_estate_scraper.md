@@ -13,7 +13,7 @@ sidebar:
     text: "Android native app - Kotlin, AndroidX, MVVM, OKHttp, Dagger2, ViewBinding, ConstraintLayout"
 ---
 
-I was searching for an apartment and I didn't really want to check for new real estates
+I was searching for an apartment, and I didn't really want to check for new real estates
 every day since I'm kinda lazy and inconsistent, when it comes to this stuff.
 
 I came up with a quite simple solution; 
