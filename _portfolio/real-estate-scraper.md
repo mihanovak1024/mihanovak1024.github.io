@@ -1,5 +1,5 @@
 ---
-title: "Broccoli --- real estate scraper"
+title: "Broccoli"
 excerpt: "Scraper for Slovenian real estates with BROKEr Android app"
 header:
   image: /assets/images/portfolio/real-estate-scraper/broker-screens.png

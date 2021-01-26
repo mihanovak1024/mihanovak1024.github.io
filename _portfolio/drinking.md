@@ -1,5 +1,5 @@
 ---
-title: "DrinKing --- a self-service beer machine"
+title: "DrinKing"
 excerpt: "A self-service beer machine with mobile app payment system"
 header:
   image: /assets/images/portfolio/drinking/header.png

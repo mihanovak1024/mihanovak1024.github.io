@@ -1,5 +1,5 @@
 ---
-title: "Count On Me --- an Android counter app"
+title: "Count On Me"
 excerpt: "A sophisticated Android counter app that keeps track of counting statistics"
 header:
   image: /assets/images/portfolio/count-on-me/header.png
