@@ -46,6 +46,6 @@ and spits everything out in a <b style="color:#00adb5">standalone HTML file</b> 
 
 It's nothing fancy actually, since it operates on HTML DOM level.
 
-The project is publicly available [on my GitHub](https://github.com/mihanovak1024/fejstbukov-parser).
+The project is publicly available: <center style="color:#00adb5"><a href="https://github.com/mihanovak1024/fejstbukov-parser"><b>Fejstbukov Parser GitHub</b></a></center>
 
 Since this <b style="color:#00adb5">violates</b> the Facebook Privacy Policies, the parser unfortunately was not used in any way.
