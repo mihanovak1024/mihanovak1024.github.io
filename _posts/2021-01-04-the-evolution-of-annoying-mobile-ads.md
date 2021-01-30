@@ -80,7 +80,7 @@ Yes, **playables**; ads where you actually play a mini/demo game embedded into a
 With bigger variety of ad formats advertisers have more power to persuade the user to click their ad and hopefully make a conversion;
 whether it's installing an app, buying baby diapers or reserving a flight to Dubai, whatever the ad creative advertises.
 
-Today it's a lot easier to create quality ads as there's no much restraints in terms of mobile device hardware and data transfer limits.
+Today it's a lot easier to create quality ads as there aren't many restraints in terms of mobile device hardware and data transfer limits.
 
 I'll talk about the ~10 year difference in advertising space in terms of advertiser spending, ad formats, mobile devices and some other advertising related topics.
 
@@ -88,7 +88,7 @@ Buckle up, there's gonna be a few charts.
 
 ## Around 2010
 How to monetise a mobile application?
-Besides premium mobile apps, the ones that can be installed only after payment, 
+Besides the premium mobile apps, the ones that can be installed only after payment, 
 another way app developers could monetise their games is through in-app advertising.
 
 Ads were present from the very beginning of smartphone existence.
@@ -145,7 +145,7 @@ of native Android and iOS to make a functional mobile web app.
 {% include gallery id="facebook-native-vs-web-app" caption="Facebook Mobile Native App vs Web App 2012" %}
 
 ### Ad SDKs
-An Ad SDK (Software Development Kit) is essentially a package of code that a developer includes in it's own game 
+An Ad SDK (Software Development Kit) is essentially a package of code that a developer includes in its own game 
 which enables the app to start serving ads from the SDK Ad Provider (AdMob, Applovin, Smaato, Chartboost,...) 
 without any special technical config.
 SDKs were and still are the most popular in the Mobile advertising sphere having a really big share in mobile advertising compared to S2S (server-to-server) implementation.

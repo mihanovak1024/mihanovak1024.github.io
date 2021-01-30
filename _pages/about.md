@@ -1,13 +1,13 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "So yeah... I'm a 25 year old (mostly) Android developer based in Slovenia, Europe."
+excerpt: "So yeah... I'm a 25-year old (mostly) Android developer based in Slovenia, Europe."
 profile-photo:
   - image_path: /assets/images/about/miha_classy.jpg
     alt: "Profile photo"
 ---
 
-So yeah... My name is Miha Novak (it's a **male** name, I kid you not) and I'm a 25 year old (_mostly_) Android developer based in Slovenia, Europe.
+So yeah... My name is Miha Novak (it's a **male** name, I kid you not), and I'm a 25-year old (_mostly_) Android developer based in Slovenia, Europe.
 
 I've been programming professionally since my **20th** birthday.
 
@@ -27,7 +27,7 @@ To name a few:
 - a Flutter Counter app called [CountOnMe](https://play.google.com/store/apps/details?id=com.topappfield.CountOnMe) (group project)
 - an automated Slovenian real estate scrapper on a DigitalOcean droplet + Android app
 
-and for everything I've received from the community, I wanted to give a little bit back,
+and for everything I've received from the community, I wanted to give a little back,
 thus the idea for [Programmer's guide Slovenia](https://github.com/mihanovak1024/programmers-guide-slovenia) was born (and well appreciated too).
 Since there were several requests from people without Facebook accounts, I did a [Bookmarklet](https://github.com/mihanovak1024/fejstbukov-parser) for Facebook post extracting,
 but due to Privacy concerns, it wasn't used. 
@@ -44,12 +44,12 @@ I worked on Android projects for clients alongside Infinum's artists, project le
 I'm really thankful to my mentor [Željko Plesac](https://twitter.com/ZeljkoPlesac) who helped me kick start my Android career really fast.  
 
 ### Outfit7 
-During my 5 year working experience in Outfit7, I've been responsible for technical Android side of Mobile advertisement
+During my 5 year working experience in Outfit7, I've been responsible for technical Android side of Mobile advertisement, 
 and I've developed a great interest towards it to such extent that I've decided to write a whole [blog]({{ "/posts/" | relative_url }}) about it.
  
 In Outfit7 I built my own Android projects from ground up with initial technical specifications included
 and even orchestrated some of the project cross-platform (backend, iOS) members. 
-Some of the work I was responsible for:
+A few of my responsibilities:
 - complete refactor of Server-to-Server Android ad engine
 - complete refactor of the legacy ad library to a new, more modular and testable approach
 - creation of our very own CMP for several regulations such as GDPR TCF2.0, CCPA, COPPA,...
