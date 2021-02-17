@@ -1,5 +1,5 @@
 ---
-title: "Programmer's Guide Slovenia"
+title: "Programmers Guide Slovenia"
 excerpt: "Basic guide for new programmers in Slovenia"
 header:
   image: /assets/images/portfolio/programmers-guide-slovenia/header.png
@@ -44,3 +44,7 @@ Quite some people have already contributed to the project and are credited on th
 <figure class="align-center">
   <img src="/assets/images/portfolio/programmers-guide-slovenia/contributors.png" alt="Post">
 </figure> 
+
+If you'd like to contribute, knock yourself out:
+
+<center style="color:#00adb5"><a href="https://github.com/mihanovak1024/programmers-guide-slovenia"><b>Programmers Guide Slovenia GitHub</b></a></center>

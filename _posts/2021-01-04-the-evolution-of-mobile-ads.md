@@ -1,5 +1,5 @@
 ---
-title: "The Evolution of Annoying Mobile Ads"
+title: "The Evolution of Mobile Ads"
 categories:
   - mobile-advertising
 header:

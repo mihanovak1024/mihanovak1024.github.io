@@ -5,6 +5,8 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+header:
+    teaser: /assets/images/portfolio/portfolio.jpg
 ---
 
 Some of my hobby projects. 
