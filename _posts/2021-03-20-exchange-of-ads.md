@@ -9,6 +9,8 @@ tags:
   - mobile
   - advertisement
   - adtech
+goodbye:
+  - image_path: /assets/images/post3-2021-03-20/goodbye.gif
 ---
 
 Ad Exchanges are technology platforms that serve as an open digital marketplace.
@@ -162,3 +164,4 @@ minimising Google's tricks and enabling more transparency for ad providers.
 ---
 
 <center style="color:#00adb5"><b><i>Thanks for reading!</i></b></center> 
+{% include gallery id="goodbye" %}
