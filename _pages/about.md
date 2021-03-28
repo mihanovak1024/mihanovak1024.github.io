@@ -65,5 +65,5 @@ A few of my responsibilities:
 - creation of our very own <b style="color:#00adb5">Consent Management Platform</b> for several legislations such as GDPR TCF2.0, CCPA, COPPA,...
 - prototype of <b style="color:#00adb5">Headerbidding</b> Ad solution in collaboration with MaxAds
 
-Thanks to my great mentors and managers [Nevena Veljkovicć](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">Matic Standeker</b>,
+Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">Matic Standeker</b>,
 I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it! 
