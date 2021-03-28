@@ -7,11 +7,11 @@ profile-photo:
     alt: "Profile photo"
 ---
 
-My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 25-year old (_mostly_) Android Developer based in Slovenia, Europe.
+My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 26-year old (_mostly_) Android Developer based in Slovenia, Europe.
 
 I've been programming professionally since my **20th** birthday.
 
-Last 5 years I have been working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
+Last 6 years I have been working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
 
 The number <b style="color:#00adb5">1024</b> next to my name comes from a codename that my University entitled me with and I was so fond of it, 
 I decided to use it everywhere, so it kind of became my signature.
@@ -43,7 +43,7 @@ but due to Privacy concerns, it wasn't used.
 A bit more detailed descriptions of the architectural design and flow of these apps can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
 
 ## Professional Experience
-I really do fell lucky and proud, at the same time, to be working alongside very talented coworkers in two huge successful companies: 
+I really do fell lucky and proud, at the same time, to work alongside such talented people such successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019)
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation)
 
