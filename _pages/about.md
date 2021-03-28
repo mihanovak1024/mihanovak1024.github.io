@@ -43,7 +43,7 @@ but due to Privacy concerns, it wasn't used.
 A bit more detailed descriptions of the architectural design and flow of these apps can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
 
 ## Professional Experience
-I really do fell lucky and proud, at the same time, to work alongside such talented people such successful companies: 
+I really do fell lucky and proud, at the same time, to work alongside such talented people for these amazingly successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019)
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation)
 
