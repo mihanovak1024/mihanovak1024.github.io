@@ -4,7 +4,7 @@ categories:
   - mobile-advertising
 header:
   image: /assets/images/post1-2021-01-04/mobile-advertising-header.jpg
-  teaser: /assets/images/post1-2021-01-04/teaser.png
+  teaser: /assets/images/post1-2021-01-04/mobile-advertising-teaser.png
 smaato-logo:
   - image_path: /assets/images/post1-2021-01-04/smaato-logo-transparent-space.png
   - image_path: /assets/images/post1-2021-01-04/smaato-logo.png
@@ -103,7 +103,7 @@ and these advertisers then find the best sources to advertise these products. On
 ### Ad Formats
 
 Since there were constraints of mobile data transfer limits and internet speed, the ads weren't as beautiful as they are nowadays (although it doesn't make them any less annoying).
-advertising agencies had to adapt to the device limits at that time, thus only certain ad types were meaningful; the ones that were the most optimised in terms of size and complexity/performance.
+Advertising agencies had to adapt to the device limits at that time, thus only certain ad types were meaningful; the ones that were the most optimised in terms of size and complexity/performance.
 The most popular ad type at that time were **banners**, since they had small sizes and were lightweight. 
 
 Other types, such as videos, were quite tricky for advertisers as there was such a huge spectre of different screen sizes and resolutions out in the open.
@@ -119,7 +119,7 @@ A good example is InMobi's [introduction to tablet banners](https://www.inmobi.c
 since tablets such as Apple's iPad and Samsung's Galaxy Tab started to gain traction.
 
 Rich media ads started to pop up, though in 2010 they were still treated as experimental.
-What are rich media ads, you ask? Well they are essentially ads that give the user a more rich experience; 
+What are rich media ads, you ask? Well, they are essentially ads that give the user a more rich experience; 
 _they offer more in-app interactivity via video, sound, gaming and so on_.
 {% include gallery id="static-vs-rich-media-2018" caption="Static vs rich media banner format" %}
 
@@ -178,7 +178,7 @@ A few introductory explanation:
 Apple products were treated as premium devices, causing quite higher CPMs compared to more accessible Android devices, 
 which were significantly cheaper in terms of device price tag.
 
-So why a higher CPM for Apple devices? Well since Apple devices were the most expensive, its owners usually had above the average net worth, 
+So why a higher CPM for Apple devices? Well, since Apple devices were the most expensive, its owners usually had above the average net worth, 
 thus they would be more desirable to advertisers as they tend to spend more than the users with cheaper devices, 
 meaning the ad would be much more effective for these Apple's users.
 
@@ -217,7 +217,7 @@ According to [PubMatic](https://pubmatic.com/) header bidding in America has see
 
 From 2018 to 2021 the quality of mobile devices started to increase and Apple finally got a bit of competition.
 Up until this point Apple was considered as a premium mobile device provider, but companies like Samsung, OnePlus, ... started
-producing their own high end smartphones thus getting closer to Apple in terms of device quality, performance and even price range.
+producing their own high-end smartphones thus getting closer to Apple in terms of device quality, performance and even price range.
 
 [Venturebeat article](https://venturebeat.com/2020/02/12/liftoff-2020-may-be-the-year-android-ad-revenue-eclipses-ios/) made a bold statement
 that Android in-app revenue might surpass iOS, but even if it didn't, Android sure as hell came very close.
@@ -229,7 +229,7 @@ that Android in-app revenue might surpass iOS, but even if it didn't, Android su
 Mobile advertising spending is increasing year over year and since Mobile app stores (Apple's AppStore and Google's GooglePlay) 
 strive towards higher in-app purchase cuts, ads won't be obsolete anytime soon.
 
-Mobile devices are getting better and better and data transfer is getting cheaper and almost limitless, which enables 
+Mobile devices are getting better and data transfer is getting cheaper and almost limitless, which enables 
 mobile ad creative developers to create ad creatives of higher quality which make them more desirable towards the end user.
 
 It will surely be quite interesting to see what the future of mobile advertising brings.
