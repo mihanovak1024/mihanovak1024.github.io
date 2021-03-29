@@ -7,6 +7,7 @@ header:
 sidebar:
   - title: "Skills"
     text: "Self-initiative"
+  - title: "Hours ~50"
 ---
 
 I've received so much from the Slovenian programming community that I felt I need to give something back.

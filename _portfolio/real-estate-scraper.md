@@ -11,6 +11,7 @@ sidebar:
     text: "Wildfly/JBoss on DigitalOcean Droplet, JAX-RS, EclipseLink JPA, PostgreSQL, JSoup, tmux, Bash, Cron"
   - title: "Client"
     text: "Android native app - Kotlin, AndroidX, MVVM, OKHttp, Dagger2, ViewBinding, ConstraintLayout"
+  - title: "Hours ~100"
 ---
 
 I was searching for an apartment, and I didn't really want to check for new real estates

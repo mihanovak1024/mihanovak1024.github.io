@@ -7,6 +7,7 @@ header:
 sidebar:
   - title: "Languages"
     text: "HTML, Javascript"
+  - title: "Hours ~10"
 ---
 
 As I was working on [Programmer's Guide Slovenia](/portfolio/programmers-guide-slovenia), which is

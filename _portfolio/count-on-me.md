@@ -9,6 +9,7 @@ sidebar:
     text: "Kotlin, Flutter"
   - title: "Skills"
     text: "Marketing, UX and UI design, User support, Feature planning, Teamwork"
+  - title: "Hours ~70"
 ---
 
 <b style="color:#00adb5">Jure</b>, a friend of mine, despite being an experienced programmer, agreed to team up with me for a project we'd work together on.

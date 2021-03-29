@@ -13,6 +13,7 @@ sidebar:
     text: "Android native app - Kotlin, AndroidX, MVVM, OKHttp, Dagger2, ViewBinding, ConstraintLayout"
   - title: "Client machine"
     text: "Python Flask server, <br>Javascript/HTML/CSS Frontend, <br>Python RBPi --- Arduino communication"
+  - title: "Hours ~200"
 ---
 
 Two of my friends, <b style="color:#00adb5">Tine</b> and <b style="color:#00adb5">Žiga</b>, and me started to work on a project for self-service drinks.
