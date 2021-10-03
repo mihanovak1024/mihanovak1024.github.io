@@ -8,443 +8,236 @@ header:
 This little project is actually not a project, but more of a list of notes from Paul Graham's essays
 that can be seen on [his website](www.paulgraham.com/articles.html).
 
-Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 27-28 | Added on Thursday, 26 August 2021 23:02:05
-
+1. Why Smart People Have Bad Ideas
 One reason we had such a lame idea was that it was the first thing we thought of.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 29-31 | Added on Thursday, 26 August 2021 23:02:47
-
-If you're going to spend years working on something, you'd think it might be wise to spend at least a couple days considering different ideas, instead of going with the first that comes into your head.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 36-37 | Added on Thursday, 26 August 2021 23:03:25
+If you're going to spend years working on something, 
+you'd think it might be wise to spend at least a couple days considering different ideas, 
+instead of going with the first that comes into your head.
 
 At each point (a day, a week, a month) I thought I'd already put in so much time that it was too late to change.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 37-38 | Added on Thursday, 26 August 2021 23:03:49
-
-So the biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it, and then at each point (a day, a week, a month) feel you've put so much time into it that this must be the idea.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 39-40 | Added on Thursday, 26 August 2021 23:04:05
+So the biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it, 
+and then at each point (a day, a week, a month) feel you've put so much time into it that this must be the idea.
 
 The solution is at the other end: to realize that having invested time in something doesn't make it good.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 45-46 | Added on Thursday, 26 August 2021 23:05:05
+Ask yourself: is this something people will pay for? 
+Is this, of all the things we could make, the thing people will pay most for?
 
-later to look at your idea in the harsh light of morning and ask: is this something people will pay for? Is this, of all the things we could make, the thing people will pay most for?
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 65-67 | Added on Thursday, 26 August 2021 23:07:23
-
-In fact there is no such thing as "business." There's selling, promotion, figuring out what people want, deciding how much to charge, customer support, paying your bills, getting customers to pay you, getting incorporated, raising money, and so on.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 71-72 | Added on Thursday, 26 August 2021 23:08:11
-
-Sum up all these sources of error, and it's no wonder we had such a bad idea for a company. We did the first thing we thought of; we were ambivalent about being in business at all; and we deliberately chose an impoverished market to avoid competition.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 73-74 | Added on Thursday, 26 August 2021 23:08:56
-
-Most of the groups applying have not stopped to ask: of all the things we could do, is this the one with the best chance of making money?
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 76-77 | Added on Thursday, 26 August 2021 23:09:14
-
-Reading the Wall Street Journal for a week should give anyone ideas for two or three new startups. The articles are full of descriptions of problems that need to be solved.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 104-104 | Added on Thursday, 26 August 2021 23:10:59
+Reading the Wall Street Journal for a week should give anyone ideas for two or three new startups. 
+The articles are full of descriptions of problems that need to be solved.
 
 If you want to learn what people want, read Dale Carnegie's How to Win Friends and Influence People.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 106-107 | Added on Thursday, 26 August 2021 23:11:14
 
-It deals with the most difficult problem in human experience: how to see things from other people's point of view, instead of thinking only of yourself.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 123-124 | Added on Thursday, 26 August 2021 23:12:06
+It's much easier to sell services than a product,
+just as it's easier to make a living playing at weddings than by selling recordings. 
+But the margins are greater on products.
 
-It's much easier to sell services than a product, just as it's easier to make a living playing at weddings than by selling recordings. But the margins are greater on products.
-==========
-﻿Why Smart People Have Bad Ideas (paulgraham.com)
-- Your Highlight at location 125-127 | Added on Thursday, 26 August 2021 23:12:35
+2.﻿Ideas for Startups
 
-Trevor Blackwell presents the following recipe for a startup: "Watch people who have money to spend, see what they're wasting their time on, cook up a solution, and try selling it to them. It's surprising how small a problem can be and still provide a profitable market for a solution."
-==========
-﻿Ideas for Startups (paulgraham.com)
-- Your Highlight at location 19-20 | Added on Friday, 27 August 2021 17:03:13
+Trevor Blackwell presents the following recipe for a startup: 
+"Watch people who have money to spend, see what they're wasting their time on, 
+cook up a solution, and try selling it to them. 
+It's surprising how small a problem can be and still provide a profitable market for a solution."
 
-The fact is, most startups end up nothing like the initial idea. It would be closer to the truth to say the main value of your initial idea is that, in the process of discovering it's broken, you'll come up with your real idea.
-==========
-﻿Ideas for Startups (paulgraham.com)
-- Your Highlight at location 17-18 | Added on Friday, 27 August 2021 17:04:10
+The fact is, most startups end up nothing like the initial idea. 
+It would be closer to the truth to say the main value of your initial idea is that, 
+in the process of discovering it's broken, you'll come up with your real idea.
 
-Actually, startup ideas are not million dollar ideas, and here's an experiment you can try to prove it: just try to sell one. Nothing evolves faster than markets. The fact that there's no market for startup ideas suggests there's no demand.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 12-13 | Added on Sunday, 29 August 2021 10:53:33
+3. How to Start a Startup
+Actually, startup ideas are not million dollar ideas, 
+and here's an experiment you can try to prove it: just try to sell one. 
+Nothing evolves faster than markets. 
+The fact that there's no market for startup ideas suggests there's no demand.
 
 The way a startup makes money is to offer people better technology than they have now.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 29-30 | Added on Sunday, 29 August 2021 10:55:36
 
-What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 60-60 | Added on Sunday, 29 August 2021 12:05:52
-
-Ideally
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 60-61 | Added on Sunday, 29 August 2021 12:06:18
-
-Ideally you want between two and four founders. It would be hard to start with just one. One person would find the moral weight of starting a company hard to bear.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 83-83 | Added on Sunday, 29 August 2021 12:09:21
-
-The rulers of the technology business tend to come from technology, not business.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 84-85 | Added on Sunday, 29 August 2021 12:09:47
-
-There is one reason you might want to include business people in a startup, though: because you have to have at least one person willing and able to focus on what customers want.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 88-88 | Added on Sunday, 29 August 2021 12:10:56
-
-If you can't understand users, however, you should either learn how or find a co-founder who can.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 95-96 | Added on Sunday, 29 August 2021 12:12:35
+There is one reason you might want to include business people in a startup, though: 
+because you have to have at least one person willing and able to focus on what customers want.
 
 In nearly every failed startup, the real problem was that customers didn't want the product.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 99-100 | Added on Sunday, 29 August 2021 12:13:11
-
-The only way to make something customers want is to get a prototype in front of them and refine it based on their reactions.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 105-106 | Added on Sunday, 29 August 2021 12:13:57
-
-In a startup, your initial plans are almost certain to be wrong in some way, and your first priority should be to figure out where. The only way to do that is to try implementing them.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 114-114 | Added on Sunday, 29 August 2021 14:57:49
+The only way to make something customers want is to get a prototype in front of them 
+and refine it based on their reactions.
 
 It's worth trying very, very hard to make technology easy to use.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 132-133 | Added on Sunday, 29 August 2021 15:00:50
 
-Start by writing software for smaller companies, because it's easier to sell to them.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 130-131 | Added on Sunday, 29 August 2021 15:01:02
+The way to get rich from a startup is to maximize the company's chances of succeeding, 
+not to maximize the amount of stock you retain. 
+So if you can trade stock for something that improves your odds, it's probably a smart move.
 
-If you want ideas for startups, one of the most valuable things you could do is find a middle-sized non-technology company and spend a couple weeks just watching what they do with computers.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 136-137 | Added on Sunday, 29 August 2021 15:02:07
+The first thing you'll need is a few tens of thousands of dollars to pay your expenses while you develop a prototype. 
+This is called seed capital. Because so little money is involved, 
+raising seed capital is comparatively easy-- at least in the sense of getting a quick yes or no.
 
-It's easier to make an inexpensive product more powerful than to make a powerful product cheaper.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 146-147 | Added on Sunday, 29 August 2021 15:03:50
+Usually angels are financially equivalent to founders. 
+They get the same kind of stock and get diluted the same amount in future rounds. 
+How much stock should they get? That depends on how ambitious you feel. 
+When you offer x percent of your company for y dollars, 
+you're implicitly claiming a certain value for the whole company. 
+If you give an investor new shares equal to 5% of those already outstanding in return for $100,000, 
+then you've done the deal at a pre-money valuation of $2 million.
 
-The way to get rich from a startup is to maximize the company's chances of succeeding, not to maximize the amount of stock you retain. So if you can trade stock for something that improves your odds, it's probably a smart move.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 148-150 | Added on Sunday, 29 August 2021 15:05:03
+Basically, a VC is a source of money. 
+I'd be inclined to go with whoever offered the most money the soonest with the least strings attached.
 
-The first thing you'll need is a few tens of thousands of dollars to pay your expenses while you develop a prototype. This is called seed capital. Because so little money is involved, raising seed capital is comparatively easy-- at least in the sense of getting a quick yes or no.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 151-152 | Added on Sunday, 29 August 2021 15:05:34
+There is nothing more valuable, in the early stages of a startup, than smart users. 
+If you listen to them, they'll tell you exactly how to make a winning product. 
+And not only will they give you this advice for free, they'll pay you.
 
-At the seed stage, investors don't expect you to have an elaborate business plan. Most know that they're supposed to decide quickly. It's not unusual to get a check within a week based on a half-page agreement.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 169-171 | Added on Sunday, 29 August 2021 15:07:46
+More generally, design your product to please users first, 
+and then think about how to make money from it.
 
-It turns out that no one comes and arrests you if you don't do everything you're supposed to when starting a company. And a good thing too, or a lot of startups would never get started. [5]
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 191-194 | Added on Sunday, 29 August 2021 15:10:04
+To make something users love, you have to understand them. 
+And the bigger you are, the harder that is. 
+So I say "get big slow." 
+The slower you burn through your funding, the more time you have to learn.
 
-Usually angels are financially equivalent to founders. They get the same kind of stock and get diluted the same amount in future rounds. How much stock should they get? That depends on how ambitious you feel. When you offer x percent of your company for y dollars, you're implicitly claiming a certain value for the whole company. Venture investments are usually described in terms of that number. If you give an investor new shares equal to 5% of those already outstanding in return for $100,000, then you've done the deal at a pre-money valuation of $2 million.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 224-225 | Added on Sunday, 29 August 2021 15:13:05
-
-Basically, a VC is a source of money. I'd be inclined to go with whoever offered the most money the soonest with the least strings attached.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 251-253 | Added on Sunday, 29 August 2021 15:16:47
-
-There is nothing more valuable, in the early stages of a startup, than smart users. If you listen to them, they'll tell you exactly how to make a winning product. And not only will they give you this advice for free, they'll pay you.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 266-267 | Added on Sunday, 29 August 2021 15:20:01
-
-More generally, design your product to please users first, and then think about how to make money from it.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 267-269 | Added on Sunday, 29 August 2021 15:20:17
-
-To make something users love, you have to understand them. And the bigger you are, the harder that is. So I say "get big slow." The slower you burn through your funding, the more time you have to learn.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 295-299 | Added on Sunday, 29 August 2021 15:24:32
-
-The most important way to not spend money is by not hiring people. I may be an extremist, but I think hiring people is the worst thing a company can do. To start with, people are a recurring expense, which is the worst kind. They also tend to cause you to grow out of your space, and perhaps even move to the sort of uncool office building that will make your software worse. But worst of all, they slow you down: instead of sticking your head in someone's office and checking out an idea with them, eight people have to have a meeting about it. So the fewer people you can hire, the better.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 301-302 | Added on Sunday, 29 August 2021 15:25:06
+The most important way to not spend money is by not hiring people. 
+I may be an extremist, but I think hiring people is the worst thing a company can do. 
+To start with, people are a recurring expense, which is the worst kind. 
+They also tend to cause you to grow out of your space, 
+and perhaps even move to the sort of uncool office building that will make your software worse. 
+But worst of all, they slow you down: 
+instead of sticking your head in someone's office and checking out an idea with them, 
+eight people have to have a meeting about it. 
 
 The only reason to hire someone is to do something you'd like to do but can't.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 318-319 | Added on Sunday, 29 August 2021 15:26:37
 
-So who should start a startup? Someone who is a good hacker, between about 23 and 38, and who wants to solve the money problem in one shot instead of getting paid gradually over a conventional working life.
-==========
-﻿How to Start a Startup (paulgraham.com)
-- Your Highlight at location 342-345 | Added on Sunday, 29 August 2021 15:29:13
+So who should start a startup? 
+Someone who is a good hacker, between about 23 and 38, 
+and who wants to solve the money problem in one shot 
+instead of getting paid gradually over a conventional working life.
 
-During this time you'll do little but work, because when you're not working, your competitors will be. My only leisure activities were running, which I needed to do to keep working anyway, and about fifteen minutes of reading a night. I had a girlfriend for a total of two months during that three year period. Every couple weeks I would take a few hours off to visit a used bookshop or go to a friend's house for dinner. I went to visit my family twice. Otherwise I just worked.
-==========
-﻿How to Fund a Startup (paulgraham.com)
-- Your Highlight at location 61-62 | Added on Sunday, 29 August 2021 16:17:11
+4. How to Fund a Startup
 
-The reason is that investors need to get their capital back. They'll only consider companies that have an exit strategy—meaning companies that could get bought or go public.
-==========
-﻿How to Fund a Startup (paulgraham.com)
-- Your Highlight at location 66-67 | Added on Sunday, 29 August 2021 16:18:10
+During this time you'll do little but work, because when you're not working, your competitors will be.
+My only leisure activities were running, which I needed to do to keep working anyway, 
+and about fifteen minutes of reading a night. 
+I had a girlfriend for a total of two months during that three year period. 
+Every couple weeks I would take a few hours off to visit a used bookshop or go to a friend's house for dinner. 
+I went to visit my family twice. Otherwise I just worked.
 
-Another concept we need to introduce now is valuation. When someone buys shares in a company, that implicitly establishes a value for it.
-==========
-﻿How to Fund a Startup (paulgraham.com)
-- Your Highlight at location 202-204 | Added on Sunday, 29 August 2021 21:56:02
+The reason is that investors need to get their capital back. 
+They'll only consider companies that have an exit strategy—meaning companies that could get bought or go public.
 
-So when do you approach VCs? When you can convince them. If the founders have impressive resumes and the idea isn't hard to understand, you could approach VCs quite early. Whereas if the founders are unknown and the idea is very novel, you might have to launch the thing and show that users loved it before VCs would be convinced.
-==========
-﻿How to Fund a Startup (paulgraham.com)
-- Your Highlight at location 223-224 | Added on Sunday, 29 August 2021 21:58:56
+Another concept we need to introduce now is valuation. 
+When someone buys shares in a company, that implicitly establishes a value for it.
 
-than full-time. So some or all of the friends quit their jobs or leave school. (Some of the founders in a startup can stay in grad school, but at least one has to make the company his full-time job.)
-==========
-﻿How to Fund a Startup (paulgraham.com)
-- Your Highlight at location 222-223 | Added on Sunday, 29 August 2021 21:59:11
+So when do you approach VCs? When you can convince them. 
+If the founders have impressive resumes and the idea isn't hard to understand, 
+you could approach VCs quite early. 
+Whereas if the founders are unknown and the idea is very novel, 
+you might have to launch the thing and show that users loved it before VCs would be convinced.
 
-Since most startups are in competitive businesses, you not only want to work full-time on them, but more than full-time.
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 10-12 | Added on Thursday, 2 September 2021 22:29:09
+5. How to Work Hard
+There are three ingredients in great work: natural ability, practice, and effort. 
+You can do pretty well with just two, but to do the best work you need all three: 
+you need great natural ability and to have practiced a lot and to be trying very hard.
 
-There are three ingredients in great work: natural ability, practice, and effort. You can do pretty well with just two, but to do the best work you need all three: you need great natural ability and to have practiced a lot and to be trying very hard.
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 13-14 | Added on Thursday, 2 September 2021 22:29:41
+Bill Gates, for example, was among the smartest people in business in his era, 
+but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one."
 
-Bill Gates, for example, was among the smartest people in business in his era, but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one."
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 55-55 | Added on Thursday, 2 September 2021 22:35:24
+6. Billionaires Build
 
-The only way to find the limit is by crossing it.
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 85-87 | Added on Thursday, 2 September 2021 22:39:48
+The ideal combination is the group of founders who are "living in the future" 
+in the sense of being at the leading edge of some kind of change, 
+and who are building something they themselves want.
 
-Plus there are some powerful sources of error you need to learn to discount. Are you really interested in x, or do you want to work on it because you'll make a lot of money, or because other people will be impressed with you, or because your parents want you to?
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 95-96 | Added on Thursday, 2 September 2021 22:41:55
+All these founders were building things they and their peers wanted, 
+and the fact that they were at the leading edge of change meant 
+that more people would want these things in the future.
 
-described earlier has a third component: along with measuring both how hard you're working and how well you're doing, you have to think about whether you should keep working in this field or switch to another.
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 101-102 | Added on Thursday, 2 September 2021 22:42:43
+As long as you have some users, there are straightforward ways to get more: 
+build new features they want, seek out more people like them, 
+get them to refer you to their friends, and so on. 
+But these techniques all require some initial seed group of users.
 
-The best test of whether it's worthwhile to work on something is whether you find it interesting.
-==========
-﻿How to Work Hard (paulgraham.com)
-- Your Highlight at location 125-128 | Added on Thursday, 2 September 2021 22:45:41
+"How do you know people want this?" 
+The most convincing answer is "Because we and our friends want it." 
+It's even better when this is followed by the news that you've already built a prototype, 
+and even though it's very crude, your friends are using it, and it's spreading by word of mouth.
 
-It's ok to work on something to make a lot of money. You need to solve the money problem somehow, and there's nothing wrong with doing that efficiently by trying to make a lot at once. I suppose it would even be ok to be interested in money for its own sake; whatever floats your boat. Just so long as you're conscious of your motivations. The thing to avoid is unconsciously letting the need for money warp your ideas about what kind of work you find most interesting.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21528-21529 | Added on Wednesday, 8 September 2021 22:46:08
+The best thing you can do in a YC interview is to teach the partners about your users. 
+So if you want to prepare for your interview, 
+one of the best ways to do it is to go talk to your users and find out exactly what they're thinking. 
+Which is what you should be doing anyway.
 
-The ideal combination is the group of founders who are "living in the future" in the sense of being at the leading edge of some kind of change, and who are building something they themselves want.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21531-21532 | Added on Wednesday, 8 September 2021 22:46:30
-
-All these founders were building things they and their peers wanted, and the fact that they were at the leading edge of change meant that more people would want these things in the future.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21537-21538 | Added on Wednesday, 8 September 2021 22:47:32
-
-As long as you have some users, there are straightforward ways to get more: build new features they want, seek out more people like them, get them to refer you to their friends, and so on. But these techniques all require some initial seed group of users.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21540-21541 | Added on Wednesday, 8 September 2021 22:48:09
-
-"How do you know people want this?"
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21540-21543 | Added on Wednesday, 8 September 2021 22:49:05
-
-"How do you know people want this?" The most convincing answer is "Because we and our friends want it." It's even better when this is followed by the news that you've already built a prototype, and even though it's very crude, your friends are using it, and it's spreading by word of mouth. If
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21540-21543 | Added on Wednesday, 8 September 2021 22:49:27
-
-"How do you know people want this?" The most convincing answer is "Because we and our friends want it." It's even better when this is followed by the news that you've already built a prototype, and even though it's very crude, your friends are using it, and it's spreading by word of mouth. If you can say that and you're not lying, the partners
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21540-21543 | Added on Wednesday, 8 September 2021 22:49:39
-
-"How do you know people want this?" The most convincing answer is "Because we and our friends want it." It's even better when this is followed by the news that you've already built a prototype, and even though it's very crude, your friends are using it, and it's spreading by word of mouth.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21552-21554 | Added on Wednesday, 8 September 2021 22:51:17
-
-The best thing you can do in a YC interview is to teach the partners about your users. So if you want to prepare for your interview, one of the best ways to do it is to go talk to your users and find out exactly what they're thinking. Which is what you should be doing anyway.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 21626-21627 | Added on Wednesday, 8 September 2021 23:01:23
-
-It's all about users. The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 19480-19481 | Added on Thursday, 9 September 2021 22:52:44
+It's all about users. 
+The most reliable way to become a billionaire is to start a company that grows fast, 
+and the way to grow fast is to make what users want.
 
 Startups usually win by making something so great that people recommend it to their friends.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 19110-19111 | Added on Saturday, 11 September 2021 08:38:42
 
-Now that you know about the fatal pinch, how do you avoid it? Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18376-18379 | Added on Saturday, 11 September 2021 09:07:51
+7. The Fatal Pinch
+Now that you know about the fatal pinch, how do you avoid it? 
+Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
 
-startups that raise money do it more than once. A typical trajectory might be (1) to get started with a few tens of thousands from something like Y Combinator or individual angels, then (2) raise a few hundred thousand to a few million to build the company, and then (3) once the company is clearly succeeding, raise one or more later rounds to accelerate growth.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18376-18379 | Added on Saturday, 11 September 2021 09:08:00
-
-A typical trajectory might be (1) to get started with a few tens of thousands from something like Y Combinator or individual angels, then (2) raise a few hundred thousand to a few million to build the company, and then (3) once the company is clearly succeeding, raise one or more later rounds to accelerate growth.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18402-18402 | Added on Saturday, 11 September 2021 09:10:45
+8. How To Raise Money
+A typical trajectory might be (1) to get started with a few tens of thousands
+from something like Y Combinator or individual angels, 
+then (2) raise a few hundred thousand to a few million to build the company, 
+and then (3) once the company is clearly succeeding, 
+raise one or more later rounds to accelerate growth.
 
 Don't raise money unless you want it and it wants you.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18172-18173 | Added on Monday, 13 September 2021 22:49:13
 
-How do you seem like you'll be one of the big successes? You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18184-18185 | Added on Monday, 13 September 2021 22:50:50
+9. How To Convince Investors
+How do you seem like you'll be one of the big successes? 
+You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
-A formidable person is one who seems like they'll get what they want, regardless of whatever obstacles are in the way.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17970-17971 | Added on Thursday, 16 September 2021 17:17:16
+A formidable person is one who seems like they'll get what they want, 
+regardless of whatever obstacles are in the way.
 
-The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17978-17980 | Added on Thursday, 16 September 2021 17:18:43
+10. Do Things That Don't Scale
+The most common unscalable thing founders have to do at the start is to recruit users manually. 
+Nearly all startups have to. 
+You can't wait for users to come to you. 
+You have to go out and get them.
 
-There are two reasons founders resist going out and recruiting users individually. One is a combination of shyness and laziness. They'd rather sit at home writing code than go out and talk to a bunch of strangers and probably be rejected by most of them. But for a startup to succeed, at least one founder (usually the CEO) will have to spend a lot of time on sales and marketing. [2]
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17980-17985 | Added on Thursday, 16 September 2021 17:20:56
+There are two reasons founders resist going out and recruiting users individually. 
+One is a combination of shyness and laziness. 
+They'd rather sit at home writing code than go out and talk to a bunch of strangers 
+and probably be rejected by most of them. 
+But for a startup to succeed, at least one founder (usually the CEO) will have to spend a lot of time on sales and marketing. 
+The other reason founders ignore this path is that the absolute numbers seem so small at first.
+This can't be how the big, famous startups got started, they think. 
+The mistake they make is to underestimate the power of compound growth. 
+We encourage every startup to measure their progress by weekly growth rate. 
+If you have 100 users, you need to get 10 more next week to grow 10% a week. 
+And while 110 may not seem much better than 100, if you keep growing at 10% a week you'll be surprised how big the numbers get. 
+After a year you'll have 14,000 users, and after 2 years you'll have 2 million.
 
-The other reason founders ignore this path is that the absolute numbers seem so small at first. This can't be how the big, famous startups got started, they think. The mistake they make is to underestimate the power of compound growth. We encourage every startup to measure their progress by weekly growth rate. If you have 100 users, you need to get 10 more next week to grow 10% a week. And while 110 may not seem much better than 100, if you keep growing at 10% a week you'll be surprised how big the numbers get. After a year you'll have 14,000 users, and after 2 years you'll have 2 million.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17978-17985 | Added on Thursday, 16 September 2021 17:21:17
-
-There are two reasons founders resist going out and recruiting users individually. One is a combination of shyness and laziness. They'd rather sit at home writing code than go out and talk to a bunch of strangers and probably be rejected by most of them. But for a startup to succeed, at least one founder (usually the CEO) will have to spend a lot of time on sales and marketing. [2] The other reason founders ignore this path is that the absolute numbers seem so small at first. This can't be how the big, famous startups got started, they think. The mistake they make is to underestimate the power of compound growth. We encourage every startup to measure their progress by weekly growth rate. If you have 100 users, you need to get 10 more next week to grow 10% a week. And while 110 may not seem much better than 100, if you keep growing at 10% a week you'll be surprised how big the numbers get. After a year you'll have 14,000 users, and after 2 years you'll have 2 million.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18000-18001 | Added on Thursday, 16 September 2021 17:23:43
-
-The question to ask about an early stage startup is not "is this company taking over the world?" but "how big could this company get if the founders did the right things?"
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18012-18014 | Added on Thursday, 16 September 2021 17:27:17
-
-Your first users should feel that signing up with you was one of the best choices they ever made. And you in turn should be racking your brains to think of new ways to delight them.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18027-18028 | Added on Thursday, 16 September 2021 17:29:51
-
-Tim Cook doesn't send you a hand-written note after you buy a laptop. He can't. But you can. That's one advantage of being small: you can provide a level of service no big company can.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18039-18039 | Added on Thursday, 16 September 2021 17:31:59
+Your first users should feel that signing up with you was one of the best choices they ever made. 
+And you in turn should be racking your brains to think of new ways to delight them.
 
 It's not the product that should be insanely great, but the experience of being your user.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18047-18048 | Added on Thursday, 16 September 2021 17:33:16
 
 The feedback you get from engaging directly with your earliest users will be the best you ever get.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18055-18057 | Added on Thursday, 16 September 2021 17:34:14
 
-Any startup that could be described as a marketplace usually has to start in a subset of the market, but this can work for other startups as well. It's always worth asking if there's a subset of the market in which you can get a critical mass of users quickly.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18074-18075 | Added on Thursday, 16 September 2021 17:37:19
+Like paying excessive attention to early customers, 
+fabricating things yourself turns out to be valuable for hardware startups. 
+You can tweak the design faster when you're the factory, 
+and you learn things you'd never have known otherwise.
 
-watches when they did go on Kickstarter. Like paying excessive attention to early customers, fabricating things yourself turns out to be
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18074-18076 | Added on Thursday, 16 September 2021 17:37:24
+Another consulting-like technique for recruiting initially lukewarm users is to use your software yourselves on their behalf. 
+We did that at Viaweb. When we approached merchants asking if they wanted to use our software to make online stores, 
+some said no, but they'd let us make one for them. Since we would do anything to get users, we did. 
+We felt pretty lame at the time. Instead of organizing big strategic e-commerce partnerships, 
+we were trying to sell luggage and pens and men's shirts. 
+But in retrospect it was exactly the right thing to do, 
+because it taught us how it would feel to merchants to use our software. 
+Sometimes the feedback loop was near instantaneous: 
+in the middle of building some merchant's site I'd find I needed a feature we didn't have, 
+so I'd spend a couple hours implementing it and then resume building the site.
 
-Like paying excessive attention to early customers, fabricating things yourself turns out to be valuable for hardware startups. You can tweak the design faster when you're the factory, and you learn things you'd never have known otherwise.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 18086-18092 | Added on Thursday, 16 September 2021 17:40:27
-
-Another consulting-like technique for recruiting initially lukewarm users is to use your software yourselves on their behalf. We did that at Viaweb. When we approached merchants asking if they wanted to use our software to make online stores, some said no, but they'd let us make one for them. Since we would do anything to get users, we did. We felt pretty lame at the time. Instead of organizing big strategic e-commerce partnerships, we were trying to sell luggage and pens and men's shirts. But in retrospect it was exactly the right thing to do, because it taught us how it would feel to merchants to use our software. Sometimes the feedback loop was near instantaneous: in the middle of building some merchant's site I'd find I needed a feature we didn't have, so I'd spend a couple hours implementing it and then resume building the site.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17260-17260 | Added on Friday, 17 September 2021 15:38:54
-
+11. Startup = Growth
 A startup is a company designed to grow fast.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17263-17264 | Added on Friday, 17 September 2021 15:39:04
 
-You have to know that growth is what you're after. The good news is, if you get growth, everything else tends to fall into place. Which means you can use growth like a compass to make almost every decision you face.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17276-17277 | Added on Friday, 17 September 2021 15:46:31
+You have to know that growth is what you're after. 
+The good news is, if you get growth, everything else tends to fall into place. 
+Which means you can use growth like a compass to make almost every decision you face.
 
-For a company to grow really big, it must (a) make something lots of people want, and (b) reach and serve all those people.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17292-17294 | Added on Friday, 17 September 2021 15:51:04
+For a company to grow really big, it must 
+(a) make something lots of people want, and 
+(b) reach and serve all those people.
 
 Whereas if you want to start a startup, you're probably going to have to think of something fairly novel. A startup has to make something it can deliver to a large market, and ideas of that type are so valuable that all the obvious ones are already taken.
 ==========
