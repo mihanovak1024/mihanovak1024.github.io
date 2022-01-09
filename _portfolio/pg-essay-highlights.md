@@ -239,295 +239,144 @@ For a company to grow really big, it must
 (a) make something lots of people want, and 
 (b) reach and serve all those people.
 
-Whereas if you want to start a startup, you're probably going to have to think of something fairly novel. A startup has to make something it can deliver to a large market, and ideas of that type are so valuable that all the obvious ones are already taken.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17324-17331 | Added on Friday, 17 September 2021 16:05:51
+Whereas if you want to start a startup, you're probably going to have to think of something fairly novel. 
+A startup has to make something it can deliver to a large market, 
+and ideas of that type are so valuable that all the obvious ones are already taken.
 
-The growth of a successful startup usually has three phases: There's an initial period of slow or no growth while the startup tries to figure out what it's doing. As the startup figures out how to make something lots of people want and how to reach those people, there's a period of rapid growth. Eventually a successful startup will grow into a big company. Growth will slow, partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves. [5] Together these three phases produce an S-curve. The phase whose growth defines the startup is the second one, the ascent. Its length and slope determine how big the company will be. The
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17327-17330 | Added on Friday, 17 September 2021 16:05:57
+The growth of a successful startup usually has three phases: 
+There's an initial period of slow or no growth while the startup tries to figure out what it's doing. 
+As the startup figures out how to make something lots of people want and how to reach those people, 
+there's a period of rapid growth. 
+Eventually a successful startup will grow into a big company. 
+Growth will slow, partly due to internal limits and partly 
+because the company is starting to bump up against the limits of the markets it serves. 
+Together these three phases produce an S-curve. 
+The phase whose growth defines the startup is the second one, the ascent. 
+Its length and slope determine how big the company will be.
 
-reach those people, there's a period of rapid growth. Eventually a successful startup will grow into a big company. Growth will slow, partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves. [5] Together these three phases produce an S-curve. The phase whose growth defines the startup is the second one, the ascent. Its length and slope
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17324-17331 | Added on Friday, 17 September 2021 16:06:04
+If there's one number every founder should always know, it's the company's growth rate. 
+That's the measure of a startup. If you don't know that number, you don't even know if you're doing well or badly.
 
-The growth of a successful startup usually has three phases: There's an initial period of slow or no growth while the startup tries to figure out what it's doing. As the startup figures out how to make something lots of people want and how to reach those people, there's a period of rapid growth. Eventually a successful startup will grow into a big company. Growth will slow, partly due to internal limits and partly because the company is starting to bump up against the limits of the markets it serves. [5] Together these three phases produce an S-curve. The phase whose growth defines the startup is the second one, the ascent. Its length and slope determine how big the company will be.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17331-17333 | Added on Friday, 17 September 2021 16:06:27
+A good growth rate during YC is 5-7% a week. 
+If you can hit 10% a week you're doing exceptionally well. 
+If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.
+We usually advise startups to pick a growth rate they think they can hit, 
+and then just try to hit it every week. The key word here is "just." 
+If they decide to grow at 7% a week and they hit that number, they're successful for that week.
 
-If there's one number every founder should always know, it's the company's growth rate. That's the measure of a startup. If you don't know that number, you don't even know if you're
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17331-17333 | Added on Friday, 17 September 2021 16:06:36
+So you'll be willing for example to hire another programmer, 
+who won't contribute to this week's growth 
+but perhaps in a month will have implemented some new feature that will get you more users. 
+But only if (a) the distraction of hiring someone won't make you miss your numbers in the short term, 
+and (b) you're sufficiently worried about whether you can keep hitting your numbers without hiring someone new.
 
-If there's one number every founder should always know, it's the company's growth rate. That's the measure of a startup. If you don't know that number, you don't even know if you're doing well or badly.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17338-17339 | Added on Friday, 17 September 2021 16:07:22
+A company that grows at 1% a week will grow 1.7x a year, 
+whereas a company that grows at 5% a week will grow 12.6x. 
+A company making $1000 a month (a typical number early in YC) and growing at 1% a week 
+will 4 years later be making $7900 a month, 
+which is less than a good programmer makes in salary in Silicon Valley. 
+A startup that grows at 5% a week will in 4 years be making $25 million a month.
 
-good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17338-17339 | Added on Friday, 17 September 2021 16:07:25
+Growth is why startups usually work on technology -- because ideas for fast growing companies are so rare 
+that the best way to find new ones is to discover those recently made viable by change, 
+and technology is the best source of rapid change. 
+Growth is why it's a rational choice economically for so many founders to try starting a startup: 
+growth makes the successful companies so valuable that the expected value is high even though the risk is too. 
+Growth is why VCs want to invest in startups: not just because the returns are high
+but also because generating returns from capital gains is easier to manage than generating returns from dividends. 
+Growth explains why the most successful startups take VC money even if they don't need to: 
+it lets them choose their growth rate. 
+And growth explains why successful startups almost invariably get acquisition offers. 
+To acquirers a fast-growing company is not merely valuable but dangerous too.
 
-A good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17342-17344 | Added on Friday, 17 September 2021 16:08:29
-
-We usually advise startups to pick a growth rate they think they can hit, and then just try to hit it every week. The key word here is "just." If they decide to grow at 7% a week and they hit that number, they're successful for that week.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17355-17358 | Added on Friday, 17 September 2021 16:43:33
-
-So you'll be willing for example to hire another programmer, who won't contribute to this week's growth but perhaps in a month will have implemented some new feature that will get you more users. But only if (a) the distraction of hiring someone won't make you miss your numbers in the short term, and (b) you're sufficiently worried about whether you can keep hitting your numbers without hiring someone new.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17361-17361 | Added on Friday, 17 September 2021 16:45:10
-
-Nine times out of ten, sitting around strategizing
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17360-17361 | Added on Friday, 17 September 2021 16:45:24
-
-Having to hit a growth number every week forces founders to act, and acting versus not acting is the high bit of succeeding. Nine times out of ten, sitting around strategizing is just a form of procrastination.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17375-17378 | Added on Friday, 17 September 2021 16:47:57
-
-A company that grows at 1% a week will grow 1.7x a year, whereas a company that grows at 5% a week will grow 12.6x. A company making $1000 a month (a typical number early in YC) and growing at 1% a week will 4 years later be making $7900 a month, which is less than a good programmer makes in salary in Silicon Valley. A startup that grows at 5% a week will in 4 years be making $25 million a month.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17434-17440 | Added on Friday, 17 September 2021 16:55:50
-
-Growth is why startups usually work on technology -- because ideas for fast growing companies are so rare that the best way to find new ones is to discover those recently made viable by change, and technology is the best source of rapid change. Growth is why it's a rational choice economically for so many founders to try starting a startup: growth makes the successful companies so valuable that the expected value is high even though the risk is too. Growth is why VCs want to invest in startups: not just because the returns are high but also because generating returns from capital gains is easier to manage than generating returns from dividends. Growth explains why the most successful startups take VC money even if they don't need to: it lets them choose their growth rate. And growth explains why successful startups almost invariably get acquisition offers. To acquirers a fast-growing company is not merely valuable but dangerous too.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 17161-17162 | Added on Friday, 17 September 2021 17:05:55
-
-Don't ignore your dreams; don't work too much; say what you think; cultivate > friendships; be happy.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 16788-16790 | Added on Sunday, 19 September 2021 19:55:33
-
-The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?"
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15722-15723 | Added on Sunday, 19 September 2021 20:18:06
-
+12. Organic Startup Ideas
 The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15457-15458 | Added on Thursday, 23 September 2021 19:37:04
 
+13. What Startups Are Really Like
 Build the absolute smallest thing that can be considered a complete > application and ship it.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15460-15461 | Added on Thursday, 23 September 2021 19:37:35
 
-Doing something "simple" at first glance does not mean you aren't doing > something meaningful, defensible, or valuable.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15472-15474 | Added on Thursday, 23 September 2021 19:39:15
-
-When you let customers tell you what they're after, they will often reveal > amazing details about what they find valuable as well what they're willing > to pay for.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15485-15485 | Added on Thursday, 23 September 2021 19:40:26
+When you let customers tell you what they're after, 
+they will often reveal amazing details about what they find valuable as well what they're willing to pay for.
 
 Fast iteration is the key to success.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 15503-15504 | Added on Thursday, 23 September 2021 22:19:04
 
 When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14929-14930 | Added on Thursday, 23 September 2021 22:37:52
 
+14. Ramen Profitable
 Ramen profitable means a startup makes just enough to pay the founders' living expenses.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14945-14947 | Added on Thursday, 23 September 2021 22:40:52
 
-If you're already profitable, on however small a scale, it shows that (a) you can get at least someone to pay you, (b) you're serious about building things people want, and (c) you're disciplined enough to keep expenses low.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14949-14951 | Added on Thursday, 23 September 2021 22:41:12
+If you're already profitable, on however small a scale, it shows that 
+(a) you can get at least someone to pay you, 
+(b) you're serious about building things people want, and 
+(c) you're disciplined enough to keep expenses low.
 
-When these companies fail, it's usually because (a) people wouldn't pay for what they made, e.g. because it was too hard to sell to them, or the market wasn't ready yet, (b) the founders solved the wrong problem, instead of paying attention to what users needed, or (c) the company spent too much and burned through their funding before they started to make money.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14962-14964 | Added on Thursday, 23 September 2021 22:42:29
-
-Raising money is terribly distracting. You're lucky if your productivity is a third of what it was before. And it can last for months.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14990-14991 | Added on Thursday, 23 September 2021 22:45:03
+When these companies fail, it's usually because 
+(a) people wouldn't pay for what they made, e.g. because it was too hard to sell to them, or the market wasn't ready yet, 
+(b) the founders solved the wrong problem, instead of paying attention to what users needed, or 
+(c) the company spent too much and burned through their funding before they started to make money.
 
 A startup's destination is to grow really big; ramen profitability is a trick for not dying en route.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14171-14171 | Added on Sunday, 26 September 2021 20:47:17
 
+15. Startups in 13 Sentences
 Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14175-14176 | Added on Sunday, 26 September 2021 20:47:58
 
-And the success of a startup is almost always a function of its founders.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14178-14178 | Added on Sunday, 26 September 2021 20:48:17
-
+The reason to launch fast is not so much that it's critical to get your product to market early, 
+but that you haven't really started working on it till you've launched. 
 Launching teaches you what you should have been building.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14176-14178 | Added on Sunday, 26 September 2021 20:48:36
-
-The reason to launch fast is not so much that it's critical to get your product to market early, but that you haven't really started working on it till you've launched. Launching teaches you what you should have been building.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14180-14180 | Added on Sunday, 26 September 2021 20:49:02
 
 Launch fast and iterate.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14194-14195 | Added on Sunday, 26 September 2021 20:50:47
 
-out of your way to make people happy. They'll be overwhelmed; you'll see. In the earliest stages of a startup, it pays to offer customer service on a level that wouldn't
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14194-14196 | Added on Sunday, 26 September 2021 20:51:01
+Go out of your way to make people happy. They'll be overwhelmed; you'll see. 
+In the earliest stages of a startup, it pays to offer customer service on a level that wouldn't scale, 
+because it's a way of learning about your users.
 
-Go out of your way to make people happy. They'll be overwhelmed; you'll see. In the earliest stages of a startup, it pays to offer customer service on a level that wouldn't scale, because it's a way of learning about your users.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14201-14202 | Added on Sunday, 26 September 2021 20:51:59
-
-Most startups fail before they make something people want, and the most common form of failure is running out of money. So being cheap is (almost) interchangeable with iterating rapidly.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14204-14204 | Added on Sunday, 26 September 2021 20:52:34
-
-"Ramen profitable" means a startup makes just enough to pay the founders' living expenses.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14205-14206 | Added on Sunday, 26 September 2021 20:52:48
+Most startups fail before they make something people want, 
+and the most common form of failure is running out of money. 
+So being cheap is (almost) interchangeable with iterating rapidly.
 
 Once you cross over into ramen profitable, it completely changes your relationship with investors.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14207-14208 | Added on Sunday, 26 September 2021 20:53:15
 
-Nothing kills startups like distractions. The worst type are those that pay money: day jobs, consulting, profitable side-projects.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14210-14211 | Added on Sunday, 26 September 2021 20:54:00
+Nothing kills startups like distractions. 
+The worst type are those that pay money: day jobs, consulting, profitable side-projects.
 
-Though the immediate cause of death in a startup tends to be running out of money, the underlying cause is usually lack of focus.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14214-14215 | Added on Sunday, 26 September 2021 20:54:23
+Though the immediate cause of death in a startup tends to be running out of money, 
+the underlying cause is usually lack of focus.
 
-Even if you get demoralized, don't give up. You can get surprisingly far by just not giving up.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14221-14223 | Added on Sunday, 26 September 2021 20:55:01
+Even if you get demoralized, don't give up. 
+You can get surprisingly far by just not giving up.
 
-Understand your users. That's the key. The essential task in a startup is to create wealth; the dimension of wealth you have most control over is how much you improve users' lives; and the hardest part of that is knowing what to make for them.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 14221-14228 | Added on Sunday, 26 September 2021 20:55:32
+Understand your users. That's the key. 
+The essential task in a startup is to create wealth; 
+the dimension of wealth you have most control over is how much you improve users' lives; 
+and the hardest part of that is knowing what to make for them. 
+Once you know what to make, it's mere effort to make it, and most decent hackers are capable of that. 
+Understanding your users is part of half the principles in this list. 
+That's the reason to launch early, to understand your users. 
+Evolving your idea is the embodiment of understanding your users. 
+Understanding your users well will tend to push you toward making something that makes a few people deeply happy. 
+The most important reason for having surprisingly good customer service is that it helps you understand your users. 
+And understanding your users will even ensure your morale, 
+because when everything else is collapsing around you, 
+having just ten users who love you will keep you going.
 
-Understand your users. That's the key. The essential task in a startup is to create wealth; the dimension of wealth you have most control over is how much you improve users' lives; and the hardest part of that is knowing what to make for them. Once you know what to make, it's mere effort to make it, and most decent hackers are capable of that. Understanding your users is part of half the principles in this list. That's the reason to launch early, to understand your users. Evolving your idea is the embodiment of understanding your users. Understanding your users well will tend to push you toward making something that makes a few people deeply happy. The most important reason for having surprisingly good customer service is that it helps you understand your users. And understanding your users will even ensure your morale, because when everything else is collapsing around you, having just ten users who love you will keep you going.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 12374-12375 | Added on Sunday, 26 September 2021 21:13:44
-
-like to find (a) simple solutions (b) to overlooked problems (c)
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 12374-12375 | Added on Sunday, 26 September 2021 21:13:49
-
-I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 12374-12376 | Added on Sunday, 26 September 2021 21:14:08
-
-I like to find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d) deliver them as informally as possible, (e) starting with a very crude version 1, then (f) iterating rapidly.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 12396-12396 | Added on Sunday, 26 September 2021 21:15:58
-
-Figure out what the real problem is, and make sure you solve that.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 12397-12398 | Added on Sunday, 26 September 2021 21:16:03
-
-And launch as soon as you can, so you start learning from users what you should have been making.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11739-11740 | Added on Sunday, 26 September 2021 21:18:43
-
-If you can just avoid dying, you get rich. That sounds like a
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11739-11739 | Added on Sunday, 26 September 2021 21:19:20
+16. Six Principles for Making New Things
+I like to find 
+(a) simple solutions 
+(b) to overlooked problems 
+(c) that actually need to be solved, and 
+(d) deliver them as informally as possible, 
+(e) starting with a very crude version 1, then 
+(f) iterating rapidly.
 
 If you can just avoid dying, you get rich.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11764-11765 | Added on Sunday, 26 September 2021 21:21:49
+So many startups get demoralized and fail when merely by hanging on they could get rich, 
+you have to assume that running a startup can be demoralizing.
+That's why I've never done another startup. The low points in a startup are just unbelievably low.
 
-so many startups get demoralized and fail when merely by hanging on they could get rich, you have to assume that running a startup can be demoralizing.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11765-11766 | Added on Sunday, 26 September 2021 21:21:55
+If you know it's going to feel terrible sometimes, 
+then when it feels terrible you won't think "ouch, this feels terrible, I give up." 
+It feels that way for everyone.
 
-and that's why I've never done another startup. The low points in a startup are just unbelievably low.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11765-11766 | Added on Sunday, 26 September 2021 21:21:59
-
-The low points in a startup are just unbelievably low.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11768 | Added on Sunday, 26 September 2021 21:22:18
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11767 | Added on Sunday, 26 September 2021 21:22:23
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11769 | Added on Sunday, 26 September 2021 21:22:29
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And if you just hang on, things will probably get better. The metaphor people use to describe the way a startup feels is at least a roller coaster and not drowning.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11768 | Added on Sunday, 26 September 2021 21:22:38
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11768 | Added on Sunday, 26 September 2021 21:22:43
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11768 | Added on Sunday, 26 September 2021 21:22:48
-
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11766-11768 | Added on Sunday, 26 September 2021 21:22:53
 
 If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And if you just hang on, things will probably get better.
 ==========
