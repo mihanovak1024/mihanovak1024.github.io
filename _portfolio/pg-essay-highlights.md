@@ -8,7 +8,7 @@ header:
 This little project is actually not a project, but more of a list of notes from Paul Graham's essays
 that can be seen on [his website](www.paulgraham.com/articles.html).
 
-1. Why Smart People Have Bad Ideas
+44. Why Smart People Have Bad Ideas
 One reason we had such a lame idea was that it was the first thing we thought of.
 If you're going to spend years working on something, 
 you'd think it might be wise to spend at least a couple days considering different ideas, 
@@ -31,7 +31,7 @@ It's much easier to sell services than a product,
 just as it's easier to make a living playing at weddings than by selling recordings. 
 But the margins are greater on products.
 
-2.﻿Ideas for Startups
+51.﻿Ideas for Startups
 
 Trevor Blackwell presents the following recipe for a startup: 
 "Watch people who have money to spend, see what they're wasting their time on, 
@@ -42,7 +42,7 @@ The fact is, most startups end up nothing like the initial idea.
 It would be closer to the truth to say the main value of your initial idea is that, 
 in the process of discovering it's broken, you'll come up with your real idea.
 
-3. How to Start a Startup
+39. How to Start a Startup
 Actually, startup ideas are not million dollar ideas, 
 and here's an experiment you can try to prove it: just try to sell one. 
 Nothing evolves faster than markets. 
@@ -106,7 +106,7 @@ Someone who is a good hacker, between about 23 and 38,
 and who wants to solve the money problem in one shot 
 instead of getting paid gradually over a conventional working life.
 
-4. How to Fund a Startup
+53. How to Fund a Startup
 
 During this time you'll do little but work, because when you're not working, your competitors will be.
 My only leisure activities were running, which I needed to do to keep working anyway, 
@@ -135,7 +135,7 @@ you need great natural ability and to have practiced a lot and to be trying very
 Bill Gates, for example, was among the smartest people in business in his era, 
 but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one."
 
-6. Billionaires Build
+196. Billionaires Build
 
 The ideal combination is the group of founders who are "living in the future" 
 in the sense of being at the leading edge of some kind of change, 
@@ -170,7 +170,7 @@ Startups usually win by making something so great that people recommend it to th
 Now that you know about the fatal pinch, how do you avoid it? 
 Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
 
-8. How To Raise Money
+159. How To Raise Money
 A typical trajectory might be (1) to get started with a few tens of thousands
 from something like Y Combinator or individual angels, 
 then (2) raise a few hundred thousand to a few million to build the company, 
@@ -179,14 +179,14 @@ raise one or more later rounds to accelerate growth.
 
 Don't raise money unless you want it and it wants you.
 
-9. How To Convince Investors
+154. How To Convince Investors
 How do you seem like you'll be one of the big successes? 
 You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
 A formidable person is one who seems like they'll get what they want, 
 regardless of whatever obstacles are in the way.
 
-10. Do Things That Don't Scale
+153. Do Things That Don't Scale
 The most common unscalable thing founders have to do at the start is to recruit users manually. 
 Nearly all startups have to. 
 You can't wait for users to come to you. 
@@ -228,7 +228,7 @@ Sometimes the feedback loop was near instantaneous:
 in the middle of building some merchant's site I'd find I needed a feature we didn't have, 
 so I'd spend a couple hours implementing it and then resume building the site.
 
-11. Startup = Growth
+149. Startup = Growth
 A startup is a company designed to grow fast.
 
 You have to know that growth is what you're after. 
@@ -289,7 +289,7 @@ it lets them choose their growth rate.
 And growth explains why successful startups almost invariably get acquisition offers. 
 To acquirers a fast-growing company is not merely valuable but dangerous too.
 
-12. Organic Startup Ideas
+125. Organic Startup Ideas
 The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?
 
 13. What Startups Are Really Like
@@ -302,7 +302,7 @@ Fast iteration is the key to success.
 
 When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad.
 
-14. Ramen Profitable
+116. Ramen Profitable
 Ramen profitable means a startup makes just enough to pay the founders' living expenses.
 
 If you're already profitable, on however small a scale, it shows that 
@@ -317,7 +317,7 @@ When these companies fail, it's usually because
 
 A startup's destination is to grow really big; ramen profitability is a trick for not dying en route.
 
-15. Startups in 13 Sentences
+105. Startups in 13 Sentences
 Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.
 
 The reason to launch fast is not so much that it's critical to get your product to market early, 
@@ -359,7 +359,7 @@ And understanding your users will even ensure your morale,
 because when everything else is collapsing around you, 
 having just ten users who love you will keep you going.
 
-16. Six Principles for Making New Things
+86. Six Principles for Making New Things
 I like to find 
 (a) simple solutions 
 (b) to overlooked problems 
@@ -376,77 +376,81 @@ That's why I've never done another startup. The low points in a startup are just
 If you know it's going to feel terrible sometimes, 
 then when it feels terrible you won't think "ouch, this feels terrible, I give up." 
 It feels that way for everyone.
+And if you just hang on, things will probably get better.
 
+81. How Not to Die
+Another feeling that seems alarming but is in fact normal in a startup
+is the feeling that what you're doing isn't working. 
+The reason you can expect to feel this is that what you do probably won't work. 
+Startups almost never get it right the first time. 
+Much more commonly you launch something, and no one cares. 
+Don't assume when this happens that you've failed. 
+That's normal for startups. 
+But don't sit around doing nothing. Iterate.
 
-If you know it's going to feel terrible sometimes, then when it feels terrible you won't think "ouch, this feels terrible, I give up." It feels that way for everyone. And if you just hang on, things will probably get better.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11769-11772 | Added on Sunday, 26 September 2021 21:23:33
+As long as you've made something that a few users are ecstatic about, you're on the right track. 
+It will be good for your morale to have even a handful of users who really love you, and startups run on morale.
 
-Another feeling that seems alarming but is in fact normal in a startup is the feeling that what you're doing isn't working. The reason you can expect to feel this is that what you do probably won't work. Startups almost never get it right the first time. Much more commonly you launch something, and no one cares. Don't assume when this happens that you've failed. That's normal for startups. But don't sit around doing nothing. Iterate.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11773-11775 | Added on Sunday, 26 September 2021 21:24:08
+So when you release something and it seems like no one cares, look more closely. 
+Are there zero users who really love you, 
+or is there at least some little group that does? 
+It's quite possible there will be zero. 
+In that case, tweak your product and try again. 
+Every one of you is working on a space that contains at least one winning permutation somewhere in it. 
+If you just keep trying, you'll find.
 
-As long as you've made something that a few users are ecstatic about, you're on the right track. It will be good for your morale to have even a handful of users who really love you, and startups run on morale.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11779-11782 | Added on Sunday, 26 September 2021 21:24:48
+All of you guys already have the first two. 
+You're all smart and working on promising ideas. 
+Whether you end up among the living or the dead comes down to the third ingredient, not giving up.
 
-So when you release something and it seems like no one cares, look more closely. Are there zero users who really love you, or is there at least some little group that does? It's quite possible there will be zero. In that case, tweak your product and try again. Every one of you is working on a space that contains at least one winning permutation somewhere in it. If you just keep trying, you'll find
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11779-11782 | Added on Sunday, 26 September 2021 21:24:52
+So I'll tell you now: bad shit is coming. 
+It always is in a startup. 
+The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. 
+So don't get demoralized.
 
-So when you release something and it seems like no one cares, look more closely. Are there zero users who really love you, or is there at least some little group that does? It's quite possible there will be zero. In that case, tweak your product and try again. Every one of you is working on a space that contains at least one winning permutation somewhere in it. If you just keep trying, you'll find it.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11808-11810 | Added on Sunday, 26 September 2021 21:27:09
+78. The Equity Equation
+In the general case, if n is the fraction of the company you're giving up, 
+the deal is a good one if it makes the company worth more than 1/(1 - n). 
+For example, suppose Y Combinator offers to fund you in return for 7% of your company. 
+In this case, n is .07 and 1/(1 - n) is 1.075. 
+So you should take the deal if you believe we can improve your average outcome by more than 7.5%. 
+If we improve your outcome by 10%, you're net ahead, because the remaining .93 you hold is worth .93 x 1.1 = 1.023.
 
-All of you guys already have the first two. You're all smart and working on promising ideas. Whether you end up among the living or the dead comes down to the third ingredient, not giving up.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11810-11811 | Added on Sunday, 26 September 2021 21:27:34
+You can use the same formula when giving stock to employees, but it works in the other direction. 
+If i is the average outcome for the company with the addition of some new person, 
+then they're worth n such that i = 1/(1 - n). Which means n = (i - 1)/i. 
+For example, suppose you're just two founders and you want to hire an additional hacker 
+who's so good you feel he'll increase the average outcome of the whole company by 20%. 
+n = (1.2 - 1)/1.2 = .167. 
+So you'll break even if you trade 16.7% of the company for him. 
+That doesn't mean 16.7% is the right amount of stock to give him. 
+Stock is not the only cost of hiring someone: there's usually salary and overhead as well. 
+And if the company merely breaks even on the deal, there's no reason to do it. 
+I think to translate salary and overhead into stock you should multiply the annual rate by about 1.5. 
+Most startups grow fast or die; if you die you don't have to pay the guy, 
+and if you grow fast you'll be paying next year's salary out of next year's valuation, which should be 3x this year's. 
+If your valuation grows 3x a year, 
+the total cost in stock of a new hire's salary and overhead is 1.5 years' cost at the present valuation.
 
-So I'll tell you now: bad shit is coming. It always is in a startup. The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. So don't get demoralized.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11538-11542 | Added on Monday, 27 September 2021 14:53:22
+Let's run through an example. 
+Suppose the company wants to make a "profit" of 50% on the new hire mentioned above. 
+So subtract a third from 16.7% and we have 11.1% as his "retail" price.
+Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total.
+If the company's valuation is $2 million, $90k is 4.5%. 11.1% - 4.5% = an offer of 6.6%.
 
-In the general case, if n is the fraction of the company you're giving up, the deal is a good one if it makes the company worth more than 1/(1 - n). For example, suppose Y Combinator offers to fund you in return for 7% of your company. In this case, n is .07 and 1/(1 - n) is 1.075. So you should take the deal if you believe we can improve your average outcome by more than 7.5%. If we improve your outcome by 10%, you're net ahead, because the remaining .93 you hold is worth .93 x 1.1 = 1.023.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11552-11555 | Added on Monday, 27 September 2021 14:55:22
+76. The Hacker's Guide to Investors
+There are several types of investors. 
+The two main categories are angels and VCs: 
+VCs invest other people's money, and angels invest their own.
 
-You can use the same formula when giving stock to employees, but it works in the other direction. If i is the average outcome for the company with the addition of some new person, then they're worth n such that i = 1/(1 - n). Which means n = (i - 1)/i. For example, suppose you're just two founders and you want to hire an additional hacker who's so good you feel he'll increase the average outcome of the whole company by 20%. n = (1.2 - 1)/1.2 = .167. So you'll break even if you trade 16.7% of the company for him.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11552-11561 | Added on Monday, 27 September 2021 14:56:55
+67. How To Present to Investors
+Investors' main question when judging a very early startup is whether you've made a compelling product. 
+Before they can judge whether you've built a good x, they have to understand what kind of x you've built. 
+They will get very frustrated if instead of telling them what you do, you make them sit through some kind of preamble.
 
-You can use the same formula when giving stock to employees, but it works in the other direction. If i is the average outcome for the company with the addition of some new person, then they're worth n such that i = 1/(1 - n). Which means n = (i - 1)/i. For example, suppose you're just two founders and you want to hire an additional hacker who's so good you feel he'll increase the average outcome of the whole company by 20%. n = (1.2 - 1)/1.2 = .167. So you'll break even if you trade 16.7% of the company for him. That doesn't mean 16.7% is the right amount of stock to give him. Stock is not the only cost of hiring someone: there's usually salary and overhead as well. And if the company merely breaks even on the deal, there's no reason to do it. I think to translate salary and overhead into stock you should multiply the annual rate by about 1.5. Most startups grow fast or die; if you die you don't have to pay the guy, and if you grow fast you'll be paying next year's salary out of next year's valuation, which should be 3x this year's. If your valuation grows 3x a year, the total cost in stock of a new hire's salary and overhead is 1.5 years' cost at the present valuation.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11563-11565 | Added on Monday, 27 September 2021 14:57:25
-
-Let's run through an example. Suppose the company wants to make a "profit" of 50% on the new hire mentioned above. So subtract a third from 16.7% and we have 11.1% as his "retail" price. Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total. If the company's valuation is $2 million, $90k is 4.5%. 11.1% - 4.5% = an offer of 6.6%.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 11240-11241 | Added on Monday, 27 September 2021 15:00:33
-
-There are several types of investors. The two main categories are angels and VCs: VCs invest other people's money, and angels invest their own.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 9850-9852 | Added on Monday, 27 September 2021 21:46:40
-
-Investors' main question when judging a very early startup is whether you've made a compelling product. Before they can judge whether you've built a good x, they have to understand what kind of x you've built. They will get very frustrated if instead of telling them what you do, you make them sit through some kind of preamble.
-==========
-﻿Essays (Paul Graham)
-- Your Highlight at location 8890-8893 | Added on Monday, 27 September 2021 21:57:54
-
-Of course, "release early" has a second component, without which it would be bad advice. If you're going to start with something that doesn't do much, you better improve it fast. What I find myself repeating is "pump out features." And this rule isn't just for the initial stages. This is something all startups should do for as long as they want to be considered startups.
-==========
-﻿Your Clippings  
-- Your Highlight at location 94-94 | Added on Wednesday, 29 September 2021 13:13:15
-
-weeks I would take a few hours off to visit a used
-==========
+61. The Hardest Lessons for Startups to Learn
+Of course, "release early" has a second component, without which it would be bad advice.
+If you're going to start with something that doesn't do much, you better improve it fast. 
+What I find myself repeating is "pump out features." 
+And this rule isn't just for the initial stages. 
+This is something all startups should do for as long as they want to be considered startups.
