@@ -8,29 +8,7 @@ header:
 This little project is actually not a project, but more of a list of notes from Paul Graham's essays
 that can be seen on [his website](www.paulgraham.com/articles.html).
 
-5. How to Work Hard
-There are three ingredients in great work: natural ability, practice, and effort. 
-You can do pretty well with just two, but to do the best work you need all three: 
-you need great natural ability and to have practiced a lot and to be trying very hard.
-
-Bill Gates, for example, was among the smartest people in business in his era, 
-but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one."
-
-7. The Fatal Pinch
-Now that you know about the fatal pinch, how do you avoid it? 
-Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
-
-13. What Startups Are Really Like
-Build the absolute smallest thing that can be considered a complete > application and ship it.
-
-When you let customers tell you what they're after, 
-they will often reveal amazing details about what they find valuable as well what they're willing to pay for.
-
-Fast iteration is the key to success.
-
-When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad.
-
-39. How to Start a Startup
+39. How to Start a Startup - March 2005
 Actually, startup ideas are not million dollar ideas, 
 and here's an experiment you can try to prove it: just try to sell one. 
 Nothing evolves faster than markets. 
@@ -94,7 +72,7 @@ Someone who is a good hacker, between about 23 and 38,
 and who wants to solve the money problem in one shot 
 instead of getting paid gradually over a conventional working life.
 
-44. Why Smart People Have Bad Ideas
+44. Why Smart People Have Bad Ideas - April 2005
 One reason we had such a lame idea was that it was the first thing we thought of.
 If you're going to spend years working on something, 
 you'd think it might be wise to spend at least a couple days considering different ideas, 
@@ -117,8 +95,7 @@ It's much easier to sell services than a product,
 just as it's easier to make a living playing at weddings than by selling recordings. 
 But the margins are greater on products.
 
-51.﻿Ideas for Startups
-
+51.﻿Ideas for Startups - October 2005
 Trevor Blackwell presents the following recipe for a startup: 
 "Watch people who have money to spend, see what they're wasting their time on, 
 cook up a solution, and try selling it to them. 
@@ -128,8 +105,7 @@ The fact is, most startups end up nothing like the initial idea.
 It would be closer to the truth to say the main value of your initial idea is that, 
 in the process of discovering it's broken, you'll come up with your real idea.
 
-53. How to Fund a Startup
-
+53. How to Fund a Startup - November 2005
 During this time you'll do little but work, because when you're not working, your competitors will be.
 My only leisure activities were running, which I needed to do to keep working anyway, 
 and about fifteen minutes of reading a night. 
@@ -149,24 +125,160 @@ you could approach VCs quite early.
 Whereas if the founders are unknown and the idea is very novel, 
 you might have to launch the thing and show that users loved it before VCs would be convinced.
 
-61. The Hardest Lessons for Startups to Learn
+61. The Hardest Lessons for Startups to Learn - April 2006
 Of course, "release early" has a second component, without which it would be bad advice.
 If you're going to start with something that doesn't do much, you better improve it fast. 
 What I find myself repeating is "pump out features." 
 And this rule isn't just for the initial stages. 
 This is something all startups should do for as long as they want to be considered startups.
 
-67. How To Present to Investors
+67. How To Present to Investors - August 2006 (rev April 2007, September 2010)
 Investors' main question when judging a very early startup is whether you've made a compelling product. 
 Before they can judge whether you've built a good x, they have to understand what kind of x you've built. 
 They will get very frustrated if instead of telling them what you do, you make them sit through some kind of preamble.
 
-76. The Hacker's Guide to Investors
+69. The 18 Mistakes That Kill Startups - October 2006
+1. Single founder; 
+Starting a startup is too hard for one person. 
+Even if you could do all the work yourself, you need colleagues to brainstorm with, 
+to talk you out of stupid decisions, and to cheer you up when things go wrong. 
+The last one might be the most important. 
+The low points in a startup are so low that few could bear them alone. 
+When you have multiple founders, esprit de corps binds them together in a way that seems to violate conservation laws. 
+Each thinks "I can't let my friends down." 
+This is one of the most powerful forces in human nature, and it's missing when there's just one founder.
+
+2. Bad Location
+
+3. Marginal niche; 
+Most of the groups that apply to Y Combinator suffer from a common problem: 
+choosing a small, obscure niche in the hope of avoiding competition.
+If you make anything good, you're going to have competitors, so you may as well face that. 
+You can only avoid competition by avoiding good ideas.
+
+I think this shrinking from big problems is mostly unconscious. 
+It's not that people think of grand ideas but decide to pursue smaller ones because they seem safer. 
+Your unconscious won't even let you think of grand ideas. 
+So the solution may be to think about ideas without involving yourself. 
+What would be a great idea for someone else to do as a startup?
+
+4. Derivative Idea;
+Many of the applications we get are imitations of some existing company.
+That's one source of ideas, but not the best.
+If you look at the origins of successful startups, few were started in imitation of some other startup.
+Where did they get their ideas? 
+Usually from some specific, unsolved problem the founders identified.
+
+Instead of starting from companies and working back to the problems they solved, 
+look for problems and imagine the company that might solve them.
+What do people complain about? What do you wish there was?
+
+5. Obstinacy;
+So don't get too attached to your original plan, because it's probably wrong. 
+Most successful startups end up doing something different than they originally intended,
+often so different that it doesn't even seem like the same company. 
+You have to be prepared to see the better idea when it arrives. 
+And the hardest part of that is often discarding your old idea.
+
+Fortunately there's someone you can ask for advice: your users. 
+If you're thinking about turning in some new direction and your users seem excited about it, it's probably a good bet.
+
+6. Hiring Bad Programmers
+
+7. Choosing the Wrong Platform
+
+8. Slowness in Launching;
+One reason to launch quickly is that it forces you to actually finish some quantum of work.
+Nothing is truly finished till it's released;
+you can see that from the rush of work that's always involved in releasing anything, no matter how finished you thought it was. 
+The other reason you need to launch is that it's only by bouncing your idea off users that you fully understand it.
+
+Several distinct problems manifest themselves as delays in launching: 
+working too slowly; 
+not truly understanding the problem; 
+fear of having to deal with users; 
+fear of being judged; 
+working on too many different things; 
+excessive perfectionism. 
+Fortunately you can combat all of them by the simple expedient of forcing yourself to launch something fairly quickly.
+
+9. Launching Too Early;
+What's the minimum you need to launch? 
+We suggest startups think about what they plan to do, identify a core that's both 
+(a) useful on its own and 
+(b) something that can be incrementally expanded into the whole project, 
+and then get that done as soon as possible.
+
+The early adopters you need to impress are fairly tolerant. 
+They don't expect a newly launched product to do everything; it just has to do something.
+
+10. Having No Specific User in Mind;
+You can't build things users like without understanding them. 
+The most successful startups seem to have begun by trying to solve a problem their founders had.
+
+11. Raising Too Little Money
+
+12. Spending Too Much
+
+13. Raising Too Much Money
+
+14. Poor Investor Management
+
+15. Sacrificing Users to (Supposed) Profit;
+When I said at the beginning that if you make something users want, you'll be fine, 
+you may have noticed I didn't mention anything about having the right business model. 
+That's not because making money is unimportant. 
+I'm not suggesting that founders start companies with no chance of making money
+in the hope of unloading them before they tank. 
+The reason we tell founders not to worry about the business model initially
+is that making something people want is so much harder.
+
+16. Not Wanting to Get Your Hands Dirty;
+Nearly all programmers would rather spend their time writing code
+and have someone else handle the messy business of extracting money from it. 
+And not just the lazy ones.
+
+If you're going to attract users, you'll probably have to get up from your computer and go find some. 
+It's unpleasant work, but if you can make yourself do it you have a much greater chance of succeeding.
+
+If you want to start a startup, you have to face the fact that you can't just hack.
+At least one hacker will have to spend some of the time doing business stuff.
+
+17. Fights Between Founders
+
+18. A Half-hearted Effort;
+Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. 
+Most founders of failed startups don't quit their day jobs, and most founders of successful ones do.
+
+In other words, starting startups is just like everything else. 
+The biggest mistake you can make is not to try hard enough. 
+To the extent there's a secret to success, it's not to be in denial about that.
+
+73. Why to Not Not Start a Startup - March 2007
+All the reasons you aren't starting a startup, and show why most (but not all) should be ignored:
+1. Too Young
+2. Too inexperienced
+3. Not determined enough
+4. Not smart enough
+5. Know nothing about business
+6. No cofounder
+7. No idea
+8. No room for more startups
+9. Family to support
+10. Independently wealthy
+11. Not ready for commitment
+12. Need for structure
+13. Fear of uncertainty
+14. Don't realize what you're avoiding
+15. Parents want you to be a doctor
+16. A job is the default
+
+76. The Hacker's Guide to Investors - April 2007
 There are several types of investors. 
 The two main categories are angels and VCs: 
 VCs invest other people's money, and angels invest their own.
 
-78. The Equity Equation
+78. The Equity Equation - July 2007
 In the general case, if n is the fraction of the company you're giving up, 
 the deal is a good one if it makes the company worth more than 1/(1 - n). 
 For example, suppose Y Combinator offers to fund you in return for 7% of your company. 
@@ -196,7 +308,7 @@ So subtract a third from 16.7% and we have 11.1% as his "retail" price.
 Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total.
 If the company's valuation is $2 million, $90k is 4.5%. 11.1% - 4.5% = an offer of 6.6%.
 
-81. How Not to Die
+81. How Not to Die - August 2007
 Another feeling that seems alarming but is in fact normal in a startup
 is the feeling that what you're doing isn't working. 
 The reason you can expect to feel this is that what you do probably won't work. 
@@ -226,7 +338,7 @@ It always is in a startup.
 The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. 
 So don't get demoralized.
 
-86. Six Principles for Making New Things
+86. Six Principles for Making New Things - February 2008
 I like to find 
 (a) simple solutions 
 (b) to overlooked problems 
@@ -245,33 +357,56 @@ then when it feels terrible you won't think "ouch, this feels terrible, I give u
 It feels that way for everyone.
 And if you just hang on, things will probably get better.
 
-105. Startups in 13 Sentences
-Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.
+98. A Fundraising Survival Guide - August 2008
+1. Have low expectations
+2. Keep working on your startup
+3. Be conservative
+4. Be flexible
+5. Be independent
+6. Don't take rejections personally
+7. Be able to downshift into consulting (if appropriate)
+8. Avoid inexperienced investors
+9. Know where you stand
 
+105. Startups in 13 Sentences - February 2009
+Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.
+1. Pick good cofounders
 The reason to launch fast is not so much that it's critical to get your product to market early, 
 but that you haven't really started working on it till you've launched. 
 Launching teaches you what you should have been building.
 
-Launch fast and iterate.
-
+2. Launch fast
+3. Let your idea evolve (iterate)
+4. Understand your users
+5. Better to make a few users love you than a lot ambivalent
+6. Offer surprisingly good customer support
 Go out of your way to make people happy. They'll be overwhelmed; you'll see. 
 In the earliest stages of a startup, it pays to offer customer service on a level that wouldn't scale, 
 because it's a way of learning about your users.
 
+7. You make what you measure
+8. Spend little
 Most startups fail before they make something people want, 
 and the most common form of failure is running out of money. 
 So being cheap is (almost) interchangeable with iterating rapidly.
 
+9. Get ramen profitable
 Once you cross over into ramen profitable, it completely changes your relationship with investors.
 
+10. Avoid distractions
 Nothing kills startups like distractions. 
 The worst type are those that pay money: day jobs, consulting, profitable side-projects.
 
+11. Don't get demoralized
 Though the immediate cause of death in a startup tends to be running out of money, 
 the underlying cause is usually lack of focus.
 
+12. Don't give up
 Even if you get demoralized, don't give up. 
 You can get surprisingly far by just not giving up.
+
+13. Deals fall through
+
 
 Understand your users. That's the key. 
 The essential task in a startup is to create wealth; 
@@ -287,7 +422,7 @@ And understanding your users will even ensure your morale,
 because when everything else is collapsing around you, 
 having just ten users who love you will keep you going.
 
-116. Ramen Profitable
+116. Ramen Profitable - July 2009
 Ramen profitable means a startup makes just enough to pay the founders' living expenses.
 
 If you're already profitable, on however small a scale, it shows that 
@@ -302,10 +437,20 @@ When these companies fail, it's usually because
 
 A startup's destination is to grow really big; ramen profitability is a trick for not dying en route.
 
-125. Organic Startup Ideas
+123. What Startups Are Really Like - October 2009
+Build the absolute smallest thing that can be considered a complete > application and ship it.
+
+When you let customers tell you what they're after, 
+they will often reveal amazing details about what they find valuable as well what they're willing to pay for.
+
+Fast iteration is the key to success.
+
+When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad.
+
+125. Organic Startup Ideas - April 2010
 The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?
 
-149. Startup = Growth
+149. Startup = Growth - September 2012
 A startup is a company designed to grow fast.
 
 You have to know that growth is what you're after. 
@@ -366,7 +511,36 @@ it lets them choose their growth rate.
 And growth explains why successful startups almost invariably get acquisition offers. 
 To acquirers a fast-growing company is not merely valuable but dangerous too.
 
-153. Do Things That Don't Scale
+151. How to Get Startup Ideas - November 2012
+The very best startup ideas tend to have three things in common: 
+they're something the founders themselves want, 
+that they themselves can build, 
+and that few others realize are worth doing.
+
+By far the most common mistake startups make is to solve problems no one has.
+
+Why do so many founders build things no one wants? 
+Because they begin by trying to think of startup ideas.
+
+You can either build something a large number of people want a small amount, 
+or something a small number of people want a large amount. 
+Choose the latter.
+
+Paul Buchheit says that people at the leading edge of a rapidly changing field "live in the future." 
+Combine that with Pirsig and you get: Live in the future, then build what's missing.
+
+Because a good idea should seem obvious, when you have one you'll tend to feel that you're late. 
+Don't let that deter you. Worrying that you're late is one of the signs of a good idea.
+
+You don't need to worry about entering a "crowded market"
+so long as you have a thesis about what everyone else in it is overlooking.
+
+When searching for ideas, look in areas where you have some expertise.
+
+Live in the future and build what seems interesting. 
+Strange as it sounds, that's the real recipe.
+
+153. Do Things That Don't Scale - July 2013
 The most common unscalable thing founders have to do at the start is to recruit users manually. 
 Nearly all startups have to. 
 You can't wait for users to come to you. 
@@ -408,14 +582,14 @@ Sometimes the feedback loop was near instantaneous:
 in the middle of building some merchant's site I'd find I needed a feature we didn't have, 
 so I'd spend a couple hours implementing it and then resume building the site.
 
-154. How To Convince Investors
+154. How To Convince Investors - August 2013
 How do you seem like you'll be one of the big successes? 
 You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
 A formidable person is one who seems like they'll get what they want, 
 regardless of whatever obstacles are in the way.
 
-159. How To Raise Money
+156. How To Raise Money - September 2013
 A typical trajectory might be (1) to get started with a few tens of thousands
 from something like Y Combinator or individual angels, 
 then (2) raise a few hundred thousand to a few million to build the company, 
@@ -424,8 +598,11 @@ raise one or more later rounds to accelerate growth.
 
 Don't raise money unless you want it and it wants you.
 
-196. Billionaires Build
+159. The Fatal Pinch - December 2014
+Now that you know about the fatal pinch, how do you avoid it? 
+Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
 
+196. Billionaires Build - December 2020
 The ideal combination is the group of founders who are "living in the future" 
 in the sense of being at the leading edge of some kind of change, 
 and who are building something they themselves want.
@@ -454,3 +631,11 @@ The most reliable way to become a billionaire is to start a company that grows f
 and the way to grow fast is to make what users want.
 
 Startups usually win by making something so great that people recommend it to their friends.
+
+207. How to Work Hard - June 2021
+There are three ingredients in great work: natural ability, practice, and effort. 
+You can do pretty well with just two, but to do the best work you need all three: 
+you need great natural ability and to have practiced a lot and to be trying very hard.
+
+Bill Gates, for example, was among the smartest people in business in his era, 
+but he was also among the hardest working. "I never took a day off in my twenties," he said. "Not one."
