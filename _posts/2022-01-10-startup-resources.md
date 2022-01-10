@@ -9,10 +9,10 @@ tags:
   - startups
 ---
 
-Ever wanted to make something of your own? Well, so have I. 
+Ever wanted to make something of <b style="color:#00adb5">your own</b>? Well, so have I. 
 
 Getting into startups is a completely unfamiliar territory for the first time...  
-BUT there are resources which can help you get a few answers to the questions like why, who, when, where, what.  
+BUT there are resources which can help you get a few answers to the questions like <b style="color:#00adb5">why, who, when, where, what</b>.  
 
 ### Introduction
 
@@ -21,8 +21,8 @@ At some some point in their life each person thinks something of the following:
 - _behind a company desk_ "If they could created this company, why couldn't I?"
 - _in university_ "Hmm this seems interesting, I wonder if someone else would use it"
 
-People like building something of their own and it somehow fulfills us if there are others that find our solution usable.
-Moreover, if people are willing to pay for the solution, you get the ultimate approval of what you're doing is right.
+People like building something of their own and it somehow <b style="color:#00adb5">fulfills</b> us if there are others that find our solution usable.
+Moreover, if people are willing to pay for the solution, you get the ultimate <b style="color:#00adb5">approval</b> of what you're doing is right.
 
 But what's next? Well read on.
 
@@ -32,10 +32,10 @@ But what's next? Well read on.
 ### PG
 
 There are quite a few guides which let you know what you can expect starting out. 
-But I would recommend one that was written by someone with a LOT of experience in this field; Paul Graham.
+But I would recommend one that was written by someone with a LOT of experience in this field; <b style="color:#00adb5">Paul Graham</b>.
 Paul is the founder of 
-- Viaweb, web-based application for building and hosting online stores using a web browser 
-- YCombinator, a US technology startup accelerator, which funded companies like Airbnb, Doordash, Coinbase, Stripe, Reddit, and others.
+- <b style="color:#00adb5">Viaweb</b>, web-based application for building and hosting online stores using a web browser 
+- <b style="color:#00adb5">YCombinator</b>, a US technology startup accelerator, which funded companies like Airbnb, Doordash, Coinbase, Stripe, Reddit, and others.
 
 <figure class="align-center">
   <center><img style="width:400px" src="/assets/images/post4-2022-01-10/pg-ycombinator.png" alt="Paul Graham, YCombinator"></center>
@@ -45,9 +45,9 @@ Why Paul is being mentioned as a valuable resource is because of his essays, whi
 The blog contains a lot of valuable information regarding starting a startup, getting funding, validating ideas,.. and so on.
 
 Paul shares his experiences from a few perspectives:
-- as the founder of Viaweb and YCombinator
-- as an investor of YCombinator startups
-- as a mentor to YCombinator startups
+- as the <b style="color:#00adb5">founder</b> of Viaweb and YCombinator
+- as an <b style="color:#00adb5">investor</b> of YCombinator startups
+- as a <b style="color:#00adb5">mentor</b> to YCombinator startups
 
 To help you a bit with this, I have taken notes of all his essays about startups and gathered them here:
 <center style="color:#00adb5"><a href="https://github.com/mihanovak1024/pg-startup-essay-highlights"><b>GitHub: Paul Graham's Startup Essay Highlights</b></a></center>
@@ -67,9 +67,9 @@ and more.
 
 You can check it out right about [HERE](https://www.youtube.com/c/ycombinator).
 
-I personally really like Michael Seibel's takes on startups as he went through the same steps with Twitch 
+I personally really like <b style="color:#00adb5">Michael Seibel's</b> takes on startups as he went through the same steps with his own startup 
 and now has an overview of others going through the same stuff within YCombinator.
-Michael is a co-founder of JustinTV, nowadays known as Twitch and is now the Managing Director of YCombinator.
+Michael is a co-founder of JustinTV, nowadays known as <b style="color:#00adb5">Twitch</b> and is now the Managing Director of YCombinator.
 
 <figure class="align-center">
   <img src="/assets/images/post4-2022-01-10/ycombinator-yt.png" alt="YCombinator, YouTube">
@@ -81,9 +81,9 @@ YCombinator is primarily focused to invest a small amount in the startup
 and at the end of their 3-month program lets startups pitch to bunch of investors on D-day, called Demo day.
 
 Well there's another way. 
-Without getting any funding and retaining all the equity to yourself, which is called Bootstrapping. 
+Without getting any funding and retaining all the equity to yourself, which is called <b style="color:#00adb5">Bootstrapping</b>. 
 
-The main thing for bootstrappers is the "becoming ramen profitable" as soon as possible so they can live off of the revenue and survive with it.
+The main thing for bootstrappers is the "becoming <b style="color:#00adb5">ramen profitable</b>" as soon as possible so they can live off of the revenue and survive with it.
 
 One of the best Youtube channels for bootstrappers is definitely [MicroConf](https://www.youtube.com/c/MicroConf).
 Check it out, there's a lot of videos from bootstrap founders.  
@@ -107,9 +107,9 @@ Subreddits that I've come accross are:
 
 A lot of solo bootstrappers have started their one-man-band company which brings in enough money to pay the living expenses.
 A big percentage of these quite their job in order to pursue evolving their baby projects which, 
-in case they do it at the right time in the right way, can make, by my standards, a hell lot of money.
+in case they do it at the right time in the right way, can make, by my standards, <b style="color:#00adb5">a hell lot of money</b>.
 
-Some of the most known bootstrappers is [levelsio](https://twitter.com/levelsio), the creator of NomadList, RemoteOk, Workers.co and a few more.
+One of the most known bootstrappers is [levelsio](https://twitter.com/levelsio), the creator of NomadList, RemoteOk, Workers.co and a few more.
 He became quite famous with his "12 startups in 12 moths" stunt in 2014, which you can read more about on [his blog](https://levels.io/12-startups-12-months/).
 
 It was even featured [on Wired](https://www.wired.com/2014/08/12-startups-in-12-months/)!
@@ -117,7 +117,7 @@ It was even featured [on Wired](https://www.wired.com/2014/08/12-startups-in-12-
   <img src="/assets/images/post4-2022-01-10/12startups12months.png" alt="Wired article">
 </figure>
 
-He has a lot of cool tweets about bootstrapping, open startup finances, fast shipping of new ideas and he was not even a programmer to begin with.
+He has a lot of cool tweets about bootstrapping, open startup finances, fast shipping of new ideas and he was <b style="color:#00adb5">not</b> even a programmer to begin with.
 
 # Shipping the product
 
@@ -131,12 +131,12 @@ Fortunately there are a few channels where you can start out.
 
 The biggest known fund-my-project platform is definitely [KickStarter](https://kickstarter.com/). 
 
-People give funds to projects they love and in exchange they get certain discounts or extra addons as initial customers.
+People <b style="color:#00adb5">pre-order</b> the products by giving funds to projects they love and in exchange they get certain discounts or extra addons as a bonus for being an initial customers. 
 The products are all pre-ordered and go into production if the project gets enough funding.
 
 ### ProductHunt
 
-[ProductHunt](https://www.producthunt.com/) has became a very known place where the, already a bit more polished, products see the light of day.
+[ProductHunt](https://www.producthunt.com/) has became a very known place where the, already a bit more polished, products <b style="color:#00adb5">see the light of day</b>.
 
 Mostly ProductHunt projects are software-based, but there were also some notable [hardware products](https://www.producthunt.com/topics/hardware) published.
 
@@ -144,7 +144,7 @@ It's not a funding platform like KickStarter, but it's kind of a "presentational
 
 # Getting an exit
 
-At some point startups tend to have an exit. 
+At some point startups tend to have an <b style="color:#00adb5">exit</b>. 
 An exit, for the general public, is selling the company/startup. 
 Either some bigger company acquires it or it banks for IPO (initial public offering).
 
@@ -165,11 +165,10 @@ Mostly there are minor startups that are being sold or bought on their platform,
 
 # Conclusion
 
-Creating a startup and getting enough revenue to live of of, isn't anywhere near easy, but once you get a hang of it 
-and preferably reach product market fit, sky is the limit.
+Creating a startup and getting enough revenue to live of of, <b style="color:#00adb5">isn't</b> anywhere near <b style="color:#00adb5">easy</b>, but once you get a hang of it 
+and preferably reach product market fit, <b style="color:#00adb5">sky is the limit</b>.
 
-Helping you out are the resources and tools mentioned above.
-I hope you found anything useful for yourself!
+Helping you out at the beginning of your journey are the resources and tools mentioned above.
 
 
 ---
