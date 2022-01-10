@@ -15,7 +15,7 @@ and give a lot of insights into building your own startup.
 ## Who is Paul Graham and why does it matter
 
 Paul Graham is the founder of 
-- Viaweb, an ecommerce creation tool before it was cool (almost 30 years ago), which was sold to Yahoo in 1998
+- Viaweb, web-based application for building and hosting online stores using a web browser before it was cool (almost 30 years ago), which was sold to Yahoo in 1998
 - [YCombinator](https://www.ycombinator.com/), a technology startup accelerator, which launched Stripe, Airbnb, Cruise, PagerDuty, DoorDash, Coinbase, Instacart, Dropbox, Twitch, Flightfox, and Reddit
 
 <figure class="align-center">
