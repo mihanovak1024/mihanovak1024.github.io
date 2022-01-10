@@ -109,7 +109,7 @@ Subreddits that I've come accross are:
 ### Solo bootstrappers
 
 A lot of solo bootstrappers have started their one-man-band company which brings in enough money to pay the living expenses.
-A big percentage of these quite their job in order to pursue evolving their baby projects which, 
+A big percentage of these quit their job in order to pursue evolving their baby projects which, 
 in case they do it at the right time in the right way, can make, by my standards, <b style="color:#00adb5">a hell lot of money</b>.
 
 One of the most known bootstrappers is [levelsio](https://twitter.com/levelsio), the creator of NomadList, RemoteOk, Workers.co and a few more.
