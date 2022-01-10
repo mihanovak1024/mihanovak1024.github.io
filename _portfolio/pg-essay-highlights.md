@@ -8,7 +8,7 @@ header:
 This little project is actually not a project, but more of a list of notes from Paul Graham's essays
 that can be seen on [his website](www.paulgraham.com/articles.html).
 
-39. How to Start a Startup - March 2005
+39. How to Start a Startup ([link](http://www.paulgraham.com/start.html)) - March 2005 
 Actually, startup ideas are not million dollar ideas, 
 and here's an experiment you can try to prove it: just try to sell one. 
 Nothing evolves faster than markets. 
@@ -72,7 +72,7 @@ Someone who is a good hacker, between about 23 and 38,
 and who wants to solve the money problem in one shot 
 instead of getting paid gradually over a conventional working life.
 
-44. Why Smart People Have Bad Ideas - April 2005
+44. Why Smart People Have Bad Ideas ([link](http://www.paulgraham.com/bronze.html)) - April 2005
 One reason we had such a lame idea was that it was the first thing we thought of.
 If you're going to spend years working on something, 
 you'd think it might be wise to spend at least a couple days considering different ideas, 
@@ -95,7 +95,7 @@ It's much easier to sell services than a product,
 just as it's easier to make a living playing at weddings than by selling recordings. 
 But the margins are greater on products.
 
-51.﻿Ideas for Startups - October 2005
+51.﻿Ideas for Startups ([link](http://www.paulgraham.com/ideas.html)) - October 2005
 Trevor Blackwell presents the following recipe for a startup: 
 "Watch people who have money to spend, see what they're wasting their time on, 
 cook up a solution, and try selling it to them. 
@@ -105,7 +105,7 @@ The fact is, most startups end up nothing like the initial idea.
 It would be closer to the truth to say the main value of your initial idea is that, 
 in the process of discovering it's broken, you'll come up with your real idea.
 
-53. How to Fund a Startup - November 2005
+53. How to Fund a Startup ([link](http://www.paulgraham.com/startupfunding.html)) - November 2005
 During this time you'll do little but work, because when you're not working, your competitors will be.
 My only leisure activities were running, which I needed to do to keep working anyway, 
 and about fifteen minutes of reading a night. 
@@ -125,19 +125,19 @@ you could approach VCs quite early.
 Whereas if the founders are unknown and the idea is very novel, 
 you might have to launch the thing and show that users loved it before VCs would be convinced.
 
-61. The Hardest Lessons for Startups to Learn - April 2006
+61. The Hardest Lessons for Startups to Learn ([link](http://www.paulgraham.com/startuplessons.html)) - April 2006
 Of course, "release early" has a second component, without which it would be bad advice.
 If you're going to start with something that doesn't do much, you better improve it fast. 
 What I find myself repeating is "pump out features." 
 And this rule isn't just for the initial stages. 
 This is something all startups should do for as long as they want to be considered startups.
 
-67. How To Present to Investors - August 2006 (rev April 2007, September 2010)
+67. How To Present to Investors ([link](http://www.paulgraham.com/investors.html)) - August 2006 (rev April 2007, September 2010)
 Investors' main question when judging a very early startup is whether you've made a compelling product. 
 Before they can judge whether you've built a good x, they have to understand what kind of x you've built. 
 They will get very frustrated if instead of telling them what you do, you make them sit through some kind of preamble.
 
-69. The 18 Mistakes That Kill Startups - October 2006
+69. The 18 Mistakes That Kill Startups ([link](http://www.paulgraham.com/startupmistakes.html)) - October 2006
 1. Single founder; 
 Starting a startup is too hard for one person. 
 Even if you could do all the work yourself, you need colleagues to brainstorm with, 
@@ -254,7 +254,7 @@ In other words, starting startups is just like everything else.
 The biggest mistake you can make is not to try hard enough. 
 To the extent there's a secret to success, it's not to be in denial about that.
 
-73. Why to Not Not Start a Startup - March 2007
+73. Why to Not Not Start a Startup ([link](http://www.paulgraham.com/notnot.html)) - March 2007
 All the reasons you aren't starting a startup, and show why most (but not all) should be ignored:
 1. Too Young
 2. Too inexperienced
@@ -273,12 +273,12 @@ All the reasons you aren't starting a startup, and show why most (but not all) s
 15. Parents want you to be a doctor
 16. A job is the default
 
-76. The Hacker's Guide to Investors - April 2007
+76. The Hacker's Guide to Investors ([link](http://www.paulgraham.com/guidetoinvestors.html)) - April 2007
 There are several types of investors. 
 The two main categories are angels and VCs: 
 VCs invest other people's money, and angels invest their own.
 
-78. The Equity Equation - July 2007
+78. The Equity Equation ([link](http://www.paulgraham.com/equity.html)) - July 2007
 In the general case, if n is the fraction of the company you're giving up, 
 the deal is a good one if it makes the company worth more than 1/(1 - n). 
 For example, suppose Y Combinator offers to fund you in return for 7% of your company. 
@@ -308,7 +308,7 @@ So subtract a third from 16.7% and we have 11.1% as his "retail" price.
 Suppose further that he's going to cost $60k a year in salary and overhead, x 1.5 = $90k total.
 If the company's valuation is $2 million, $90k is 4.5%. 11.1% - 4.5% = an offer of 6.6%.
 
-81. How Not to Die - August 2007
+81. How Not to Die ([link](http://www.paulgraham.com/die.html)) - August 2007
 Another feeling that seems alarming but is in fact normal in a startup
 is the feeling that what you're doing isn't working. 
 The reason you can expect to feel this is that what you do probably won't work. 
@@ -338,7 +338,7 @@ It always is in a startup.
 The odds of getting from launch to liquidity without some kind of disaster happening are one in a thousand. 
 So don't get demoralized.
 
-86. Six Principles for Making New Things - February 2008
+86. Six Principles for Making New Things ([link](http://www.paulgraham.com/newthings.html)) - February 2008
 I like to find 
 (a) simple solutions 
 (b) to overlooked problems 
@@ -357,7 +357,7 @@ then when it feels terrible you won't think "ouch, this feels terrible, I give u
 It feels that way for everyone.
 And if you just hang on, things will probably get better.
 
-98. A Fundraising Survival Guide - August 2008
+98. A Fundraising Survival Guide ([link](http://www.paulgraham.com/fundraising.html)) - August 2008
 1. Have low expectations
 2. Keep working on your startup
 3. Be conservative
@@ -368,7 +368,7 @@ And if you just hang on, things will probably get better.
 8. Avoid inexperienced investors
 9. Know where you stand
 
-105. Startups in 13 Sentences - February 2009
+105. Startups in 13 Sentences ([link](http://www.paulgraham.com/13sentences.html)) - February 2009
 Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.
 1. Pick good cofounders
 The reason to launch fast is not so much that it's critical to get your product to market early, 
@@ -422,7 +422,7 @@ And understanding your users will even ensure your morale,
 because when everything else is collapsing around you, 
 having just ten users who love you will keep you going.
 
-116. Ramen Profitable - July 2009
+116. Ramen Profitable ([link](http://www.paulgraham.com/ramenprofitable.html)) - July 2009
 Ramen profitable means a startup makes just enough to pay the founders' living expenses.
 
 If you're already profitable, on however small a scale, it shows that 
@@ -437,7 +437,7 @@ When these companies fail, it's usually because
 
 A startup's destination is to grow really big; ramen profitability is a trick for not dying en route.
 
-123. What Startups Are Really Like - October 2009
+123. What Startups Are Really Like ([link](http://www.paulgraham.com/really.html)) - October 2009
 Build the absolute smallest thing that can be considered a complete > application and ship it.
 
 When you let customers tell you what they're after, 
@@ -447,10 +447,10 @@ Fast iteration is the key to success.
 
 When you can't get users, it's hard to say whether the problem is lack of exposure, or whether the product's simply bad.
 
-125. Organic Startup Ideas - April 2010
+125. Organic Startup Ideas ([link](http://www.paulgraham.com/organic.html)) - April 2010
 The best way to come up with startup ideas is to ask yourself the question: what do you wish someone would make for you?
 
-149. Startup = Growth - September 2012
+149. Startup = Growth ([link](http://www.paulgraham.com/growth.html)) - September 2012
 A startup is a company designed to grow fast.
 
 You have to know that growth is what you're after. 
@@ -511,7 +511,7 @@ it lets them choose their growth rate.
 And growth explains why successful startups almost invariably get acquisition offers. 
 To acquirers a fast-growing company is not merely valuable but dangerous too.
 
-151. How to Get Startup Ideas - November 2012
+151. How to Get Startup Ideas ([link](http://www.paulgraham.com/startupideas.html)) - November 2012
 The very best startup ideas tend to have three things in common: 
 they're something the founders themselves want, 
 that they themselves can build, 
@@ -540,7 +540,7 @@ When searching for ideas, look in areas where you have some expertise.
 Live in the future and build what seems interesting. 
 Strange as it sounds, that's the real recipe.
 
-153. Do Things That Don't Scale - July 2013
+153. Do Things That Don't Scale ([link](http://www.paulgraham.com/ds.html)) - July 2013
 The most common unscalable thing founders have to do at the start is to recruit users manually. 
 Nearly all startups have to. 
 You can't wait for users to come to you. 
@@ -582,14 +582,14 @@ Sometimes the feedback loop was near instantaneous:
 in the middle of building some merchant's site I'd find I needed a feature we didn't have, 
 so I'd spend a couple hours implementing it and then resume building the site.
 
-154. How To Convince Investors - August 2013
+154. How To Convince Investors ([link](http://www.paulgraham.com/convince.html)) - August 2013
 How do you seem like you'll be one of the big successes? 
 You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
 
 A formidable person is one who seems like they'll get what they want, 
 regardless of whatever obstacles are in the way.
 
-156. How To Raise Money - September 2013
+156. How To Raise Money ([link](http://www.paulgraham.com/fr.html)) - September 2013
 A typical trajectory might be (1) to get started with a few tens of thousands
 from something like Y Combinator or individual angels, 
 then (2) raise a few hundred thousand to a few million to build the company, 
@@ -598,11 +598,11 @@ raise one or more later rounds to accelerate growth.
 
 Don't raise money unless you want it and it wants you.
 
-159. The Fatal Pinch - December 2014
+159. The Fatal Pinch ([link](http://www.paulgraham.com/pinch.html)) - December 2014
 Now that you know about the fatal pinch, how do you avoid it? 
 Y Combinator tells founders who raise money to act as if it's the last they'll ever get.
 
-196. Billionaires Build - December 2020
+196. Billionaires Build ([link](http://www.paulgraham.com/ace.html)) - December 2020
 The ideal combination is the group of founders who are "living in the future" 
 in the sense of being at the leading edge of some kind of change, 
 and who are building something they themselves want.
@@ -632,7 +632,7 @@ and the way to grow fast is to make what users want.
 
 Startups usually win by making something so great that people recommend it to their friends.
 
-207. How to Work Hard - June 2021
+207. How to Work Hard ([link](http://www.paulgraham.com/hwh.html)) - June 2021
 There are three ingredients in great work: natural ability, practice, and effort. 
 You can do pretty well with just two, but to do the best work you need all three: 
 you need great natural ability and to have practiced a lot and to be trying very hard.
