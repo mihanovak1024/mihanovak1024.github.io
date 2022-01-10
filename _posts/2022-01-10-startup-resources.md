@@ -12,7 +12,10 @@ tags:
 Ever wanted to make something of <b style="color:#00adb5">your own</b>? Well, so have I. 
 
 Getting into startups is a completely unfamiliar territory for the first time...  
-BUT there are resources which can help you get a few answers to the questions like <b style="color:#00adb5">why, who, when, where, what</b>.  
+
+<b style="font-size:50px;color:#00adb5">BUT</b> there are resources which can help you get a few answers to the questions like <b style="color:#00adb5">why, who, when, where, what</b>.  
+
+---
 
 ### Introduction
 
