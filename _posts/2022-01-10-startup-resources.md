@@ -67,7 +67,7 @@ and more.
 
 You can check it out right about [HERE](https://www.youtube.com/c/ycombinator).
 
-I personally really like Michael Seibel's takes on startups as he went through the same step 
+I personally really like Michael Seibel's takes on startups as he went through the same steps with Twitch 
 and now has an overview of others going through the same stuff within YCombinator.
 Michael is a co-founder of JustinTV, nowadays known as Twitch and is now the Managing Director of YCombinator.
 
@@ -78,12 +78,12 @@ Michael is a co-founder of JustinTV, nowadays known as Twitch and is now the Man
 ### MicroConf Youtube Channel
 
 YCombinator is primarily focused to invest a small amount in the startup
-and at the end of their 3month program lets startups pitch to a bunch of investors on D-day, called Demo day.
+and at the end of their 3-month program lets startups pitch to bunch of investors on D-day, called Demo day.
 
 Well there's another way. 
 Without getting any funding and retaining all the equity to yourself, which is called Bootstrapping. 
 
-The main thing for bootstrappers is the become "ramen profitable" as soon as possible so they can live of of the revenue and survive with it.
+The main thing for bootstrappers is the "becoming ramen profitable" as soon as possible so they can live off of the revenue and survive with it.
 
 One of the best Youtube channels for bootstrappers is definitely [MicroConf](https://www.youtube.com/c/MicroConf).
 Check it out, there's a lot of videos from bootstrap founders.  
