@@ -1,5 +1,5 @@
 ---
-title: "Exchange Of Ads"
+title: "Exchange of Ads"
 categories:
   - mobile-advertisement
 header:
