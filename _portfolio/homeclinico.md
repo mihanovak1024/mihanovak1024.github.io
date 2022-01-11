@@ -12,21 +12,21 @@ sidebar:
   - title: "Hours ~1000"
 ---
 
-HomeClinico is a home-based arm exercising tool primarily meant for post-stroke patients to exercise their arms on daily basis,
-but is also applicable for elderly in general, after-injury rehabilitation and for disabled people.
+HomeClinico is a <b style="color:#00adb5">home-based arm exercising tool</b> primarily meant for <b style="color:#00adb5">post-stroke</b> patients to exercise their arms on daily basis,
+but is also applicable for <b style="color:#00adb5">elderly</b> in general, <b style="color:#00adb5">after-injury</b> rehabilitation and for <b style="color:#00adb5">disabled</b> people.
 
 You can check more about it on our, presumably working, [HomeClinico website](https://homeclinico.com).
 <center><a target="_blank" href='https://play.google.com/store/apps/details?id=com.homeclinico.app&utm_source=portfolio&utm_campaign=personal_blog&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></center> 
 
 ## The Beginnings
 
-I've been working on HomeClinico along with the founder Primož.
-The project initially came to life as part of Primož's Master Thesis in mid 2020.
+I've been working on HomeClinico along with the founder <b style="color:#00adb5">Primož</b>.
+The project initially came to life as part of Primož's <b style="color:#00adb5">Master Thesis</b> in mid 2020.
 
-After fiddling around some ideas Primož asked me in March 2021 if I would join him and as I didn't have much other in plan
+After fiddling around some ideas Primož asked me in <b style="color:#00adb5">March 2021</b> if I would join him and as I didn't have much other in plan
 I gave it a go. 
 
-In mid-Septembeer 2021 I went fulltime on this. At the time of this writing I've been working on HomeClinico for the past 4 months.  
+In mid-Septembeer 2021 I went <b style="color:#00adb5">fulltime</b> on this. At the time of this writing I've been working on HomeClinico for the past <b style="color:#00adb5">4 months</b>.  
 
 For the first 2 months we did stuff that were later on marked as unnecessary so we just scrapped them. 
 Then I had to build the Android part from scratch to the development phase Primož's iOS side was already in.
@@ -42,12 +42,12 @@ You can see for yourself it was quite different from the today's.
   <figcaption style="text-align:center">Initial design of the application screens (April 2021)</figcaption>
 </figure>
 
-The first "proper" design we had only after we asked someone on Fiver to make one for us. 
+The first "proper" design we had only after we asked someone on <b style="color:#00adb5">Fiver</b> to make one for us. 
 Primož prepared the initial color scheme of the app and sketched out a few screens for the designer to have a basic feeling.
 The first screenshots we got from the designer were quite okay-ish, but didn't yet suit us.
 
-We did a few iterations of the app design until we were happy with the results. 
-The designer was payed below $150 and it was a good deal for us since we didn't have much money to begin with, 
+We did a <b style="color:#00adb5">few iterations</b> of the app design until we were happy with the results. 
+The designer was payed <b style="color:#00adb5">below $150</b> and it was a good deal for us since we didn't have much money to begin with, 
 it's a startup after all.
 
 Current results seem quite similar to the first ones provided by the designer, 
@@ -62,11 +62,11 @@ so we're really happy with the result for the money payed.
 
 ### Therapy
 
-At first the idea was to have some games and a so called Therapy function, 
+At first the idea was to have some games and a so called <b style="color:#00adb5">Therapy</b> function, 
 which at that time was basically a "pill and therapy" reminder of sorts.
 So in essence, when you need to take a pill or have a therapy scheduled with your physiotherapist.
 
-We scratched that idea and went with games and retained the Therapy name, but used it as a "exercise program" of sorts.
+We scratched that idea and went with games and retained the Therapy name, but used it as an <b style="color:#00adb5">"exercise program"</b> of sorts.
 Basically which exercises should one Therapy contain, how many repetitions each of the exercise would have and the duration of each.
 You can imagine Therapy as a standard workout program, but with the exercises that are only available within the application itself.
 
@@ -77,10 +77,10 @@ You can imagine Therapy as a standard workout program, but with the exercises th
 
 Therapy also provides an easy and guided way for the user to complete his "daily routine" of exercises
 by automatically moving from exercise to exercise when each previous is completed. 
-This could help the users building up sort of a habit in the morning and in the evening, 
+This could help the users building up sort of a <b style="color:#00adb5">habit</b> in the morning and in the evening, 
 by completing the designed Therapy each time.
 
-Therapy can be designed either by the application, by the user itself or by the user's physiotherapist.
+Therapy can be designed either by the application, by the user itself or by the user's <b style="color:#00adb5">physiotherapist</b>.
 Based on user's needs and capabilities, the exercises, repetitions, duration and difficulty would be selected accordingly.   
  
 ### Games
@@ -88,10 +88,10 @@ Based on user's needs and capabilities, the exercises, repetitions, duration and
 Game functionality was used as designed from the very beginning. 
 Games use bunch of sensors your mobile device provides in a way that have maximum and minimum angles within user's capabilities.
 
-There are currently (January 2022) 6 different games available within the HomeClinico app;
-- FieldCross, TiltIt, FallIn, PerfectAim for the wrist
-- DotPop for the elbow 
-- TargetReach for the whole arm
+There are currently (January 2022) <b style="color:#00adb5">6 different games</b> available within the HomeClinico app;
+- FieldCross, TiltIt, FallIn, PerfectAim for the <b style="color:#00adb5">wrist</b>
+- DotPop for the <b style="color:#00adb5">elbow</b> 
+- TargetReach for the <b style="color:#00adb5">whole arm</b>
 
 The functionality of each is quite nicely presented in the following video:
 
@@ -101,7 +101,7 @@ The functionality of each is quite nicely presented in the following video:
 
 <b><u>Room For Improvement</u></b>
 
-The bad thing about most current games is the repetitiveness and predictability.
+The bad thing about most current games is the <b style="color:#00adb5">repetitiveness</b> and <b style="color:#00adb5">predictability</b>.
 You keep your user's interest and motivation with unpredictability/randomness, difficulty, time pressure and progress.
 Quite a few of our competitors have small but meaningful games included within their products, such as:
 - Shooting birds with a bow
@@ -112,7 +112,7 @@ as seen in <a href="https://www.youtube.com/watch?v=J4AM_s_mkBo" target="_blank"
 
 ### Video Instructions
 
-Since the audience of HomeClinico is mostly elderly or people that have trouble or are slow at understanding, 
+Since the audience of HomeClinico are <b style="color:#00adb5">mostly elderly</b> or people that have trouble or are slow at understanding, 
 because they suffer from post-stroke brain injury, we need to give clear and easy-to-understand instructions.
 What better format than video. 
 
@@ -133,7 +133,7 @@ We just need to be aware to lower the compensation at least during the exercises
 The video instructions also need to be improved a bit, so the users knows exactly how the exercise should be performed.
   
 ### Progress Overview
-There are also plans to provide the user and his physiotherapist local and remote progress checking.
+There are also plans to provide the user and his physiotherapist local and remote <b style="color:#00adb5">progress</b> monitoring.
 Seeing the progress that was made through time is one of the most motivational factors for a successful recovery.
 
 Currently we only have the result section of each done therapy, which shows points per game and total points scored.
@@ -147,10 +147,10 @@ Currently we only have the result section of each done therapy, which shows poin
 Of course the startup life doesn't only contain building the product... 
 Oh no, that's the "easiest" part. 
 
-The hardest part is getting users and everyone that have any experience with a startup will tell you the same. 
+The <b style="color:#00adb5">hardest</b> part is getting users and everyone that have any experience with a startup will tell you the same. 
 
 ### Website
-Like each business, HomeClinico also needed it's own website. We figured out the easiest way would be to use Wordpress and buy a theme.
+Like each business, HomeClinico also needed it's own website. We figured out the easiest way would be to use <b style="color:#00adb5">Wordpress</b> and buy a theme.
 
 We did 2 mistakes:
 - we overcomplicated a bit by buying a builder theme instead an already-designed theme
@@ -162,7 +162,7 @@ each person imagines the website to look very differently from what the others h
 
 This is not really that bad as sooner or later through a few iterations you have a website that suits everyone.
 
-BUT, if you're constrained by time, it's the wrong route to take. 
+BUT, if you're <b style="color:#00adb5">constrained</b> by time, it's the wrong route to take. 
 We probably iterated with the website design for about 2 months before coming to the end result.
 Since we had more important stuff to take care of, it was absolutely demoralising. 
 
@@ -177,7 +177,7 @@ BUT, we must ask someone to verify that the content on there is clear, easy to u
 ### Presentational Videos
 We also had to create our own presentational and functionality videos.
 
-Since we had close-to-zero budget, we did all the directing and filming ourselves.
+Since we had <b style="color:#00adb5">close-to-zero</b> budget, we did all the directing and filming ourselves.
 
 Along the way we had to learn Adobe Photoshop and Adobe Premier to stitch and animate different scenes.
 
@@ -201,10 +201,10 @@ by reaching out to physiotherapists as they have a connection with our target au
 
 Surprisingly, quite a few physiotherapists were willing to send mails to their end users and help us out.
 
-Lesson learned is that people are willing to help you out if you ask them :) 
+<b style="color:#00adb5">Lesson learned</b> is that people are really willing to help you out if you ask them :) 
 
 ### Internal Documentation
-Me and Primož are by default very organised guys.
+Me and Primož are by default both <b style="color:#00adb5">very organised</b> guys.
 
 It proves within HomeClinico too. We had a Notion workspace with all kinds of notes:
 - brainstormings
@@ -213,7 +213,7 @@ It proves within HomeClinico too. We had a Notion workspace with all kinds of no
 - marketing
 - competitors
 
-basically all the business stuff. 
+basically all the stuff that's connected to a <b style="color:#00adb5">startup</b>. 
 
 <figure class="align-center">
   <center><img src="/assets/images/portfolio/homeclinico/notion.png" alt="Notion"/></center>
@@ -221,10 +221,10 @@ basically all the business stuff.
 
 This is a major advantage as you can always check what some expert has already expressed
 or what feature did a certain user recommend.
-By keeping track of these stuff, it's way easier to plan future releases and marketing campaigns.
+By keeping track of these stuff, it's way easier to <b style="color:#00adb5">plan</b> future releases and marketing campaigns.
 
 # What's Next?
-At this point we have published our first version of the HomeClinico Android application on Google Play.
+At this point we have published our <b style="color:#00adb5">first</b> version of the HomeClinico <b style="color:#00adb5">Android</b> application on Google Play:
 <center><a target="_blank" href='https://play.google.com/store/apps/details?id=com.homeclinico.app&utm_source=portfolio&utm_campaign=personal_blog&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></center>
 
 Next steps are still a bit unclear at this point.
@@ -235,17 +235,17 @@ meaning I did almost everything on my own for the past 2 months, which became qu
 We still need to figure out what are the future steps on our path to "glory" and our business "relationship". 
 
 # What I Learned
-This whole experience was something I should have try to get a few years ago. Oh well, better late than never.
+This whole experience was something I should have try to get a few years ago. Oh well, <b style="color:#00adb5">better late than never</b>.
 
 <b><u>The actual findings on the startup life:</u></b>
-1. Get stuff made off of Fiver, you won't believe how good can something so cheap be
-2. You only learn how compatible the founders are through time
-3. Users won't magically appear, you need to get out there and to the work
+1. Get stuff made off of <b style="color:#00adb5">Fiver</b>, you won't believe how good can something so cheap be
+2. You only learn how compatible the founders are <b style="color:#00adb5">through time</b>
+3. Users <b style="color:#00adb5">won't</b> magically appear, you need to get out there and to the work
 4. Marketing is a whole new world, you better have someone on your team at least slightly familiar with it
-5. Don't over complicate, keep it simple; ship & iterate 
+5. Don't over complicate, keep it simple; <b style="color:#00adb5">ship</b> & <b style="color:#00adb5">iterate</b> 
 6. Breakdowns along the way are expected, push through them
-7. Listen to your users and do stuff they care about
-8. Have at least someone on your team with understanding of the field you're solving a problem in
+7. <b style="color:#00adb5">Listen</b> to your users and do stuff they care about
+8. Have at least someone on your team with <b style="color:#00adb5">understanding</b> of the field you're solving a problem in
 
 ### Actual skills I've learned
 Technical
