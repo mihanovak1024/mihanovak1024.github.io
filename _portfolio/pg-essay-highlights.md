@@ -1,6 +1,6 @@
 ---
 title: "Paul Graham - essay highlights"
-excerpt: "My little list of, by my standards, important highlights from Paul Graham's essays on startups"
+excerpt: "Highlights from Paul Graham's essays on startups"
 header:
   teaser: assets/images/portfolio/pg-essay-highlights/teaser.png
   image: assets/images/portfolio/pg-essay-highlights/header.png
