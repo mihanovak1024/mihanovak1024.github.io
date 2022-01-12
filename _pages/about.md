@@ -7,25 +7,31 @@ profile-photo:
     alt: "Profile photo"
 ---
 
-My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 26-year old (_mostly_) Android Developer based in Slovenia, Europe.
+My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 26-year-old Software Engineer based in Slovenia, Europe.
 
 I've been programming professionally since my **20th** birthday.
 
-Last 6 years I have been working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
+In the last year I have been working on a startup with a friend, developing a home-based arm exercising tool for post-stroke patients, called <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>. 
+Previous 6 years I was working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
 
 The number <b style="color:#00adb5">1024</b> next to my name comes from a codename that my University entitled me with and I was so fond of it, 
 I decided to use it everywhere, so it kind of became my signature.
 
 {% include gallery id="profile-photo" %}
 
-I really became passionate about Digital Advertising Technology which include:
-- <b style="color:#00adb5">Headerbidding</b>
-- Ad Mediation
-- <b style="color:#00adb5">Ad Revenue Optimisations</b>
-- Server-to-server and SDK integrations
-- Ad Creative Rendering Engine creation
+# Interests
 
-and in the future I wish to help companies <b style="color:#00adb5">grow</b> their <b style="color:#00adb5">ad revenue</b> streams.
+My passion is tackling interesting problems the company is facing and helping to <b style="color:#00adb5">grow</b> their <b style="color:#00adb5">revenue</b> streams.
+I love building solutions that have a direct impact on revenue, since it's the most important metric for every company to have.
+
+I'd consider myself a generalist as I like to get my hands dirty on all fronts. 
+Being a generalist also lets me interconnect the best practices of every field.
+You can read more about this on the <a href="#career-switch">bottom</a> of this page.
+
+## Serious Projects
+Currently I only have one serious project in my arsenal; <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>.
+It is a startup/side-project that's solving a problem of COVID-19 and the lack of physiotherapists.
+HomeClinico is a home-based arm exercising tool for post-stroke patients and elderly with daily guided exercises. 
 
 ## Prototypes
 I like to tinker around different programming challenges and try to prototype my ideas.
@@ -38,14 +44,16 @@ To name a few:
 and for everything I've received from the community, I wanted to give a little back,
 thus the idea for [Programmer's guide Slovenia](https://github.com/mihanovak1024/programmers-guide-slovenia) was born (and well appreciated too).
 Since there were several requests from people without Facebook accounts, I did a [Bookmarklet](https://github.com/mihanovak1024/fejstbukov-parser) for Facebook post extracting,
-but due to Privacy concerns, it wasn't used. 
+but due to Privacy concerns, it wasn't used.
 
-A bit more detailed descriptions of the architectural design and flow of these apps can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
+As I had a rising interest in startups, I also read all of <b style="color:#00adb5">Paul Graham's</b> essays on startups and gathered notes of each essay on <a href="/portfolio/pg-essay-highlights" target="_blank">one place</a>.
+
+A bit more detailed descriptions of the architectural design and flow of these programs can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
 
 ## Professional Experience
 I really do fell lucky and proud, at the same time, to work alongside such talented people for these amazingly successful companies: 
-- [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019)
-- [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation)
+- [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019) - 2015
+- [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
 
 ### Infinum
 Back in 2015 I started my <b style="color:#00adb5">Android Developer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
@@ -54,8 +62,15 @@ I worked on Android projects for clients alongside Infinum's artists, project le
 I'm really thankful to my mentor [Željko Plesac](https://twitter.com/ZeljkoPlesac) who helped me kick start my Android career really fast.  
 
 ### Outfit7 
-During my 5 year working experience in Outfit7, I've been responsible for <b style="color:#00adb5">technical Android side of Mobile advertisement</b>, 
+During my 6 year working experience in Outfit7, I've been responsible for <b style="color:#00adb5">technical Android side of Mobile advertisement</b>, 
 and I've developed a great interest towards it to such extent that I've decided to write a whole [blog]({{ "/posts/" | relative_url }}) about it.
+ 
+I became exposed to advanced topics of Digital Advertising Technology which include:
+- <b style="color:#00adb5">Headerbidding</b>
+- Ad Mediation
+- <b style="color:#00adb5">Ad Revenue Optimisations</b>
+- Server-to-server and SDK integrations
+- Ad Creative Rendering Engine creation
  
 In Outfit7 I built my own Android projects from ground up with initial technical specifications included
 and even orchestrated some of the project cross-platform (backend, iOS) members. 
@@ -66,4 +81,16 @@ A few of my responsibilities:
 - prototype of <b style="color:#00adb5">Headerbidding</b> Ad solution in collaboration with MaxAds
 
 Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">Matic Standeker</b>,
-I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it! 
+I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it!
+
+# Career Switch
+ Being an Android developer for the past **7 years**, I wanted to see what else is out there. 
+ I decided to pursue the career of a <b style="color:#00adb5">FullStack Engineer</b> as it forces you to know all the specifics of
+ - Frontend Engineer
+ - Backend Engineer
+ - DevOps Engineer
+ 
+and later on gives you the possibility for easier transitioning into any of the above specialised fields
+or just staying as a FullStack Engineer.
+
+This career switch would be the best choice in order to really become a <b style="color:#00adb5">generalist</b> and tackle any problem thrown in my face. 
