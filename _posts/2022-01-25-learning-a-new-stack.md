@@ -17,6 +17,8 @@ I'll try to summarize it within this post.
 After a failed startup [attempt](/startups/first-startup-experience/) I decided to learn a new stack.
 I've been (mostly) an Android Developer for the <b style="color:#00adb5">past 7 years</b> and, apart from my hobby [projects](/portfolio/), I didn't look at anything else professionally.
 
+Heck, being an Android Developer was my first stack, how do I know it's the best one for me unless I try anything else?
+
 # Choosing the Path
 
 Well now that I kind of have a fresh start and a bit of free time, I wanted to give it a try at something completely different.
