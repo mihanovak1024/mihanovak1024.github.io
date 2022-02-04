@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "So yeah... I'm a 25-year old (mostly) Android developer based in Slovenia, Europe."
+excerpt: "So yeah... I'm a 25-year old (mostly) Android Engineer based in Slovenia, Europe."
 profile-photo:
   - image_path: /assets/images/about/miha_classy.jpg
     alt: "Profile photo"
@@ -56,7 +56,7 @@ I really do fell lucky and proud, at the same time, to work alongside such talen
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
 
 ### Infinum
-Back in 2015 I started my <b style="color:#00adb5">Android Developer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
+Back in 2015 I started my <b style="color:#00adb5">Android Engineer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
 I worked on Android projects for clients alongside Infinum's artists, project leads, developers and clients.
 
 I'm really thankful to my mentor [Željko Plesac](https://twitter.com/ZeljkoPlesac) who helped me kick start my Android career really fast.  
@@ -83,14 +83,10 @@ A few of my responsibilities:
 Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">Matic Standeker</b>,
 I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it!
 
-# Career Switch
- Being an Android developer for the past **7 years**, I wanted to see what else is out there. 
- I decided to pursue the career of a <b style="color:#00adb5">FullStack Engineer</b> as it forces you to know all the specifics of
- - Frontend Engineer
- - Backend Engineer
- - DevOps Engineer
+# Career Enhancement
+Being an Android Engineer for the past **7 years**, I wanted to see what else is out there. 
+I decided to check out other types of Mobile development (Flutter, iOS, React Native) in my free time, 
+to see the tradeoffs of each and interconnect the concepts.
  
-and later on gives you the possibility for easier transitioning into any of the above specialised fields
-or just staying as a FullStack Engineer.
-
-This career switch would be the best choice in order to really become a <b style="color:#00adb5">generalist</b> and tackle any problem thrown in my face. 
+This career enhancement in Mobile ecosystem would be the best choice in order to really become an <b style="color:#00adb5">expert</b> 
+and tackle any Mobile problem (or phone?) thrown in my face. 

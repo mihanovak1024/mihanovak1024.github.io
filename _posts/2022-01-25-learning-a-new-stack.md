@@ -1,5 +1,5 @@
 ---
-title: "Learning a New Stack"
+title: "Learning a New Stuff"
 categories:
   - learning
 header:
@@ -14,47 +14,36 @@ I'll try to summarize it within this post.
 
 ---
 
-After a failed startup [attempt](/startups/first-startup-experience/) I decided to learn a new stack.
-I've been (mostly) an Android Developer for the <b style="color:#00adb5">past 7 years</b> and, apart from my hobby [projects](/portfolio/), I didn't look at anything else professionally.
-
-Heck, being an Android Developer was my first stack, how do I know it's the best one for me unless I try anything else?
+After a failed startup [attempt](/startups/first-startup-experience/) I decided to learn new stuff.
+I've been (mostly) an Android Engineer for the <b style="color:#00adb5">past 7 years</b> and, apart from my hobby [projects](/portfolio/), I didn't look at anything else a bit more in detail.
 
 # Choosing the Path
 
-Well now that I kind of have a fresh start and a bit of free time, I wanted to give it a try at something completely different.
-The idea of a <b style="color:#00adb5">FullStack Developer</b> sounded very suitable for me as it would expose me to <b style="color:#00adb5">3</b> major paths; Frontend, Backend and DevOps.
+Well now that I kind of have a fresh start and a bit of free time, I wanted to give it a try at something a bit different.
+The idea of a <b style="color:#00adb5">"Fullstack" Mobile Engineer</b> sounded very suitable for me as it would expose me to <b style="color:#00adb5">3</b> major paths of a mobile engineer; 
+Native (Android/iOS) development, Flutter and React Native.
 
-By getting to know the fundamentals of each, I would get to know which path would suit me the best later on. 
-If, by any chance, I would enjoy tackling all of them as a FullStack Developer, I could still stay in this initial position.
-
-Basically, by becoming a FullStack Developer you get <b style="color:#00adb5">4 possible paths</b> to choose from; 3 specialised ones and a general FullStack one. 
-This sounds like a very good deal. 
+By getting to know the fundamentals of each, I would be able to know which one would suit a problem I'm facing the best later on. 
+You can not only see the tradeoffs of each, but also interconnect the concepts wherever suitable.  
 
 <figure class="align-center">
   <img class="align-center" style="width:400px" src="/assets/images/post6-2022-01-25/trump-deal.jpeg" alt="Trump Deal">
-</figure>
-
-<b style="color:#00adb5">Disclaimer</b>: 
-Don't get fooled, a FullStack Developer can't possibly come near an already specialised developer. 
-FullStack Developers are usually generalists that can maintain a codebase of a small-sized companies.
-In bigger companies FullStack Developers are either backend or frontend oriented with some knowledge of the other side. 
+</figure> 
 
 ### Choosing the Stack
 
-I didn't know what's popular nowadays so to find that out, I came up with a strategy.
-
-I went to our country's largest Software Developer Facebook group (~15k members) and scrolled through about 50 job ads.
-The list of languages/frameworks was made and ordered by popularity/demand.
+I went to our country's largest Software Developer Facebook group (~15k members) and scrolled through about 50 job ads,
+to see how popular React is, since it can be used for both Mobile and Web development and uses similar fundamentals on both,
+and, most of all, how popular ReactNative is in Mobile development.
 
 I decided to firstly choose the <b style="color:#00adb5">Frontend</b> path and begin learning the basics. 
-I picked <b style="color:#00adb5">React</b> as my Frontend specialisation Javascript framework. Why React?
 
-Well, React is one of the most popular frameworks based on Javascript, has a large community and is maintained by Facebook.
+React is pretty cool as it's the most popular framework based on Javascript, has a large community and is maintained by Facebook.
 Apart from that, I'm coming from a native mobile ecosystem and with React Native I can <b style="color:#00adb5">reuse</b> my knowledge of the ecosystem
 and only learn the <b style="color:#00adb5">framework specifics</b>.
 
-As a <b style="color:#00adb5">bonus</b>, I can also compare how React Native compares to Kotlin or Flutter, 
-since they are the 3 main (apart from Swift) stacks a mobile engineer can start with.
+My <b style="color:#00adb5">main goal</b> would provide me the ability to compare how React Native compares to Kotlin and Flutter, 
+since they are the 3 main (apart from Swift on iOS) stacks a mobile engineer can start with.
 
 # Where to Begin
 
@@ -71,8 +60,6 @@ Roadmap.sh has covered a few different paths a Software Engineer can take and, a
 I started with the [Frontend roadmap](https://roadmap.sh/frontend), jumped to [React roadmap](https://roadmap.sh/react) 
 and returned to finish the Frontend roadmap.
 After the finished Frontend and React roadmaps and a completed React website, I went to watch a few videos on React Native and started to build my own app.
-
-Backend and DevOps roadmaps will follow, but I'd like to get familiar with Frontend first. 
 
 # Studying Strategy
 
@@ -137,7 +124,8 @@ There are 2 options to this one:
 - get employed
 - participate in open-source
 
-Currently I'm searching for the 1st option, but for learning (and fulfillment) purposes, you might as well contribute to open-source.
+Currently I'm not searching for any of those options specifically for React Native, 
+since I'd just like to enhance my knowledge on the whole Mobile development ecosystem.
 
 Either of these choices give you something truly wonderful when starting out; <b style="color:#00adb5">code reviews</b>. 
 Your code will suck at the beginning and you should have someone check it out. 
@@ -147,6 +135,10 @@ Learn to take comments constructively and soon enough, you'll be the one mentori
 ---
 
 # The End
+I'm not going to switch to React Native just yet, but I want to be able to understand its tradeoffs compared to:
+- native development in languages like Swift (iOS) and Kotlin (Android)
+- multiplatform development kit Flutter which is a multiplatform alternative to ReactNative
+
 If by any change this gets to be read by anyone seeking a good employee, I'm up for <b style="color:#00adb5">hire</b>. 
 You can learn more about my through my [About](/about) or my [Portfolio](/portfolio) page.
 For the shorter version, feel free to check out my [CV](/cv.pdf) 
