@@ -26,7 +26,6 @@ I love building solutions that have a direct impact on revenue, since it's the m
 
 I'd consider myself a generalist as I like to get my hands dirty on all fronts. 
 Being a generalist also lets me interconnect the best practices of every field.
-You can read more about this on the <a href="#career-switch">bottom</a> of this page.
 
 ## Serious Projects
 Currently I only have one serious project in my arsenal; <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>.
@@ -50,8 +49,14 @@ As I had a rising interest in startups, I also read all of <b style="color:#00ad
 
 A bit more detailed descriptions of the architectural design and flow of these programs can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
 
-## Professional Experience
-I really do fell lucky and proud, at the same time, to work alongside such talented people for these amazingly successful companies: 
+## Bookworm
+I also like to read all sorts of books which can be seen on my "list" [HERE](https://github.com/mihanovak1024/geeky-bookshelf).
+
+I have a notebook just for book notes and for every book listed on the upper GitHub link, I have at least 4 pages of notes.
+Some books forced me to make <b style="color:#00adb5">16</b> A4 pages of notes. 
+
+# Professional Experience
+I really do fell lucky and proud, at the same time, to have worked alongside such talented people for these amazingly successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019) - 2015
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
 
@@ -80,13 +85,10 @@ A few of my responsibilities:
 - creation of our very own <b style="color:#00adb5">Consent Management Platform</b> for several legislations such as GDPR TCF2.0, CCPA, COPPA,...
 - prototype of <b style="color:#00adb5">Headerbidding</b> Ad solution in collaboration with MaxAds
 
-Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">Matic Standeker</b>,
+Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">[Matic Standeker](https://www.linkedin.com/in/matic-standeker-4831542)</b>,
 I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it!
 
 # Career Enhancement
 Being an Android Engineer for the past **7 years**, I wanted to see what else is out there. 
 I decided to check out other types of Mobile development (Flutter, iOS, React Native) in my free time, 
-to see the tradeoffs of each and interconnect the concepts.
- 
-This career enhancement in Mobile ecosystem would be the best choice in order to really become an <b style="color:#00adb5">expert</b> 
-and tackle any Mobile problem (or phone?) thrown in my face. 
+to see the tradeoffs of each and interconnect the concepts. 
