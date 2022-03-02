@@ -25,6 +25,8 @@ It's an inventory/stock tracking app for small businesses (plumbers, carpenters)
 so you can easily asses what you need to buy when you're shopping for material (screws, iron bars, pipes, ...)
 and so you can keep track which project/client consumed which items from your stock.
 
+I've made it open source, so it's available on [my GitHub](https://github.com/mihanovak1024/pogley-android).
+
 <figure class="align-center">
   <img src="/assets/images/post7-2022-03-02/pogley_mobile.jpg" alt="Pogley App">
 </figure>   
