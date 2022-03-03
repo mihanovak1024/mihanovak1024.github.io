@@ -113,9 +113,6 @@ author:
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6819938"
-    - label: "StackOverflow Story"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/story/mihanovak1024"
 
 
 # Reading Files
