@@ -1,5 +1,5 @@
 ---
-title: "Learning a New Stuff"
+title: "Learning a New Stack"
 categories:
   - learning
 header:
@@ -20,8 +20,8 @@ I've been (mostly) an Android Engineer for the <b style="color:#00adb5">past 7 y
 # Choosing the Path
 
 Well now that I kind of have a fresh start and a bit of free time, I wanted to give it a try at something a bit different.
-The idea of a <b style="color:#00adb5">"Fullstack" Mobile Engineer</b> sounded very suitable for me as it would expose me to <b style="color:#00adb5">3</b> major paths of a mobile engineer; 
-Native (Android/iOS) development, Flutter and React Native.
+The idea of a <b style="color:#00adb5">"Fullstack" Engineer</b> sounded very suitable for me as it would expose me to <b style="color:#00adb5">3</b> major paths of a Software engineer; 
+Mobile (Android/iOS) development, Frontend (React, Angular) and Backend (Express for example).
 
 By getting to know the fundamentals of each, I would be able to know which one would suit a problem I'm facing the best later on. 
 You can not only see the tradeoffs of each, but also interconnect the concepts wherever suitable.  
@@ -33,8 +33,7 @@ You can not only see the tradeoffs of each, but also interconnect the concepts w
 ### Choosing the Stack
 
 I went to our country's largest Software Developer Facebook group (~15k members) and scrolled through about 50 job ads,
-to see how popular React is, since it can be used for both Mobile and Web development and uses similar fundamentals on both,
-and, most of all, how popular ReactNative is in Mobile development.
+to see how popular React is, since it can be used for both Mobile and Web development and uses similar fundamentals on both.
 
 I decided to firstly choose the <b style="color:#00adb5">Frontend</b> path and begin learning the basics. 
 
@@ -59,7 +58,7 @@ Roadmap.sh has covered a few different paths a Software Engineer can take and, a
 
 I started with the [Frontend roadmap](https://roadmap.sh/frontend), jumped to [React roadmap](https://roadmap.sh/react) 
 and returned to finish the Frontend roadmap.
-After the finished Frontend and React roadmaps and a completed React website, I went to watch a few videos on React Native and started to build my own app.
+After the finished Frontend and React roadmaps and a completed React website, I went to watch a few videos on React and started to build my own app.
 
 # Studying Strategy
 
@@ -124,8 +123,8 @@ There are 2 options to this one:
 - get employed
 - participate in open-source
 
-Currently I'm not searching for any of those options specifically for React Native, 
-since I'd just like to enhance my knowledge on the whole Mobile development ecosystem.
+Currently I'm searching a bit one of those option for Frontend, 
+since I'd like to enhance my knowledge in this ecosystem.
 
 Either of these choices give you something truly wonderful when starting out; <b style="color:#00adb5">code reviews</b>. 
 Your code will suck at the beginning and you should have someone check it out. 
@@ -135,9 +134,8 @@ Learn to take comments constructively and soon enough, you'll be the one mentori
 ---
 
 # The End
-I'm not going to switch to React Native just yet, but I want to be able to understand its tradeoffs compared to:
-- native development in languages like Swift (iOS) and Kotlin (Android)
-- multiplatform development kit Flutter which is a multiplatform alternative to ReactNative
+I'm not going to switch to React just yet, since I'd firstly want to get on board a Frontend product I like
+and then learn the technologies they're using.
 
 If by any change this gets to be read by anyone seeking a good employee, I'm up for <b style="color:#00adb5">hire</b>. 
 You can learn more about my through my [About](/about) or my [Portfolio](/portfolio) page.

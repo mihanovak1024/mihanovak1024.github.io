@@ -11,7 +11,8 @@ My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid 
 
 I've been programming professionally since my **20th** birthday.
 
-In the last year I have been working on a startup with a friend, developing a home-based arm exercising tool for post-stroke patients, called <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>. 
+In the last year I have been working on a startup with a friend, developing a home-based arm exercising tool for post-stroke patients, called <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>,
+but upon a failed attempt have now dipped my toes into Frontend Development in Turtl. 
 Previous 6 years I was working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
 
 The number <b style="color:#00adb5">1024</b> next to my name comes from a codename that my University entitled me with and I was so fond of it, 
@@ -24,6 +25,9 @@ I decided to use it everywhere, so it kind of became my signature.
 My passion is tackling interesting problems the company is facing and helping to <b style="color:#00adb5">grow</b> their <b style="color:#00adb5">revenue</b> streams.
 I love building solutions that have a direct impact on revenue, since it's the most important metric for every company to have.
 
+Since you don't get much opportunity to impact revenue streams directly, I strive to help out optimising the performance of programs
+through architectural and asynchronous principles.
+
 I'd consider myself a generalist as I like to get my hands dirty on all fronts. 
 Being a generalist also lets me interconnect the best practices of every field.
 
@@ -31,6 +35,7 @@ Being a generalist also lets me interconnect the best practices of every field.
 Currently I only have one serious project in my arsenal; <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>.
 It is a startup/side-project that's solving a problem of COVID-19 and the lack of physiotherapists.
 HomeClinico is a home-based arm exercising tool for post-stroke patients and elderly with daily guided exercises. 
+The project however didn't make it out as we have hoped and we were forced to put it on life support.
 
 ## Prototypes
 I like to tinker around different programming challenges and try to prototype my ideas.
@@ -59,6 +64,7 @@ Some books forced me to make <b style="color:#00adb5">16</b> A4 pages of notes.
 I really do fell lucky and proud, at the same time, to have worked alongside such talented people for these amazingly successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019) - 2015
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
+- [Turtl](https://turtl.co/) (A psychology-led, interactive alternative to the PDF) - 2022-**present**
 
 ### Infinum
 Back in 2015 I started my <b style="color:#00adb5">Android Engineer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
@@ -88,7 +94,16 @@ A few of my responsibilities:
 Thanks to my great mentors and managers [Nevena Veljković](https://si.linkedin.com/in/nevena-veljkovic-a00961b8), Marko Pistotnik and <b style="color:#00adb5">[Matic Standeker](https://www.linkedin.com/in/matic-standeker-4831542)</b>,
 I've advanced both mentally and professionally! Thanks for all the great advices and help, I really do appreciate it!
 
+### Turtl
+After a failed attempt at my own startup, I wanted to learn new things, so I jumped into Frontend development.
+I started with React but later on switched to Angular, since I foresaw enough challenges within Turtl's content creation program
+written in Angular and joined their team.
+
+I'm part of the Frontend team, but since the whole technical department is not as big, 
+I also write small chunks for the backend (NodeJS, Express) as well. 
+
 # Career Enhancement
 Being an Android Engineer for the past **7 years**, I wanted to see what else is out there. 
 I decided to check out other types of Mobile development (Flutter, iOS, React Native) in my free time, 
 to see the tradeoffs of each and interconnect the concepts. 
+I wanted to transition into Web so I started studying React and ended up doing Angular on a job.
