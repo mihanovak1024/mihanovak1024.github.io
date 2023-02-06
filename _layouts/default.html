@@ -10,12 +10,10 @@
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
+    <script src="http://localhost:8000/initialiser.js" l="63daa55a8da5d05e414507d0" />
     {% include head.html %}
     {% include head/custom.html %}
-    <script>
-    (()=>{"use strict";function e(e){const t=document.createElement("script");t.async=!0;const n=encodeURIComponent(window.location.host);t.src=`${e}host=${n}`;const o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)}window.Highlightra||e("http://localhost:8000/crayon/init?builder=false&"),function(){let t;t=n=>{n.data.hglbuilder&&(window.Stapler||e("http://localhost:8000/crayon/init?builder=true&"),window.removeEventListener("message",t))},window.addEventListener("message",t)}()})();
-    </script>
-  </head>
+</head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
