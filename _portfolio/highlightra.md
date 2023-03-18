@@ -41,7 +41,7 @@ While implementing Intercom, I've noticed that not many Indie Hacker founders kn
 Most Indie Hackers just complain about churn, but don't think how they could get rid of it. 
 Highlightra is just for that, it "highlights" the important parts of your application.
 
-figure class="align-center">
+<figure class="align-center">
   <img src="/assets/images/portfolio/highlightra/example.png" alt="Silly Example of a Highlight Element">
   <figcaption>Silly Example of a Highlight Element</figcaption>
 </figure>
