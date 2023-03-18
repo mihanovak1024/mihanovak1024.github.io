@@ -1,13 +1,13 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "So yeah... I'm a 25-year old (mostly) Android Engineer based in Slovenia, Europe."
+excerpt: "So yeah... I'm a 28-year old Software Engineer based in Slovenia, Europe."
 profile-photo:
   - image_path: /assets/images/about/miha_classy.jpg
     alt: "Profile photo"
 ---
 
-My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 26-year-old Software Engineer based in Slovenia, Europe.
+My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 28-year-old Software Engineer based in Slovenia, Europe.
 
 I've been programming professionally since my **20th** birthday.
 
@@ -46,13 +46,15 @@ To name a few:
 - an automated Slovenian real estate scrapper on a DigitalOcean droplet + Android app
 
 and for everything I've received from the community, I wanted to give a little back,
-thus the idea for [Programmer's guide Slovenia](https://github.com/mihanovak1024/programmers-guide-slovenia) was born (and well appreciated too).
+thus the idea for [Programmer's Guide Slovenia](https://github.com/mihanovak1024/programmers-guide-slovenia) was born (and well appreciated too).
 Since there were several requests from people without Facebook accounts, I did a [Bookmarklet](https://github.com/mihanovak1024/fejstbukov-parser) for Facebook post extracting,
 but due to Privacy concerns, it wasn't used.
 
 As I had a rising interest in startups, I also read all of <b style="color:#00adb5">Paul Graham's</b> essays on startups and gathered notes of each essay on <a href="/portfolio/pg-essay-highlights" target="_blank">one place</a>.
 
 A bit more detailed descriptions of the architectural design and flow of these programs can be seen on my <a style="font-size:1.3em" href="/portfolio"><b>Portfolio page</b></a>
+
+As of fall 2022 I've been developing an onboarding tool called [Highlightra](https://highlightra.com) and I've been sharing my progress on my [Twitter profile](https://twitter.com/mihanovak1024).
 
 ## Bookworm
 I also like to read all sorts of books which can be seen on my "list" [HERE](https://github.com/mihanovak1024/geeky-bookshelf).
