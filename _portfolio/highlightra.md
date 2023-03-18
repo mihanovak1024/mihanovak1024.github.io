@@ -15,7 +15,7 @@ sidebar:
 I've started Highlightra in September 2022 when I said I'm gonna build a simple SaaS for making onboarding flows easy as pie.
 
 <figure class="align-center">
-  <img src="/assets/images/portfolio/highlightra/hero.jpg" alt="Landing Page">
+  <img src="/assets/images/portfolio/highlightra/hero.png" alt="Landing Page">
   <figcaption>Landing Page</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Most Indie Hackers just complain about churn, but don't think how they could get
 Highlightra is just for that, it "highlights" the important parts of your application.
 
 figure class="align-center">
-  <img src="/assets/images/portfolio/highlightra/example.jpg" alt="Silly Example of a Highlight Element">
+  <img src="/assets/images/portfolio/highlightra/example.png" alt="Silly Example of a Highlight Element">
   <figcaption>Silly Example of a Highlight Element</figcaption>
 </figure>
 
@@ -55,8 +55,8 @@ The Twitter approach is hard since I don't have any following to begin with, but
 
 <figure class="align-center">
     <center>
-    <img src="/assets/images/portfolio/highlightra/twitterAccount.png"/>
-    <figcaption style="text-align:center">My Twitter Account (7.3.2023)</figcaption>
+    <img src="/assets/images/portfolio/highlightra/twitterProgress.png"/>
+    <figcaption style="text-align:center">My Twitter Account Progress (7.3.2023)</figcaption>
   </center>
 </figure>
 
