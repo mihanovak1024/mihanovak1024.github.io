@@ -15,7 +15,7 @@ sidebar:
 I've started Highlightra in September 2022 when I said I'm gonna build a simple SaaS for making onboarding flows easy as pie.
 
 <figure class="align-center">
-  <img src="/assets/images/portfolio/highlightra/hero.png" alt="Landing Page">
+  <img src="/assets/images/portfolio/highlightra/hero.jpg" alt="Landing Page">
   <figcaption>Landing Page</figcaption>
 </figure>
 
