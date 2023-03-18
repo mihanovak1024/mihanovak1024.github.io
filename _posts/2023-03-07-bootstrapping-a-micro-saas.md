@@ -21,7 +21,7 @@ I've had my Twitter account since April 2015 and since I haven't been active, I 
 
 <figure class="align-center">
     <center>
-    <img style="width:300px" src="/assets/images/post9-2023-03-07/twitterAccount.png"/>
+    <img src="/assets/images/post9-2023-03-07/twitterAccount.png"/>
     <figcaption style="text-align:center">My Twitter Account (7.3.2023)</figcaption>
   </center>
 </figure>
@@ -44,14 +44,14 @@ I created Highlightra to "highlight" incremental steps to product value. This ne
 
 <figure class="align-center">
     <center>
-    <img style="width:300px" src="/assets/images/post9-2023-03-07/publish.jpg"/>
+    <img src="/assets/images/post9-2023-03-07/publish.jpg"/>
     <figcaption style="text-align:center">Publishing of a New Bubble Message</figcaption>
   </center>
 </figure>
 
 <figure class="align-center">
     <center>
-    <img style="width:300px" src="/assets/images/post9-2023-03-07/hero.jpg"/>
+    <img src="/assets/images/post9-2023-03-07/hero.jpg"/>
     <figcaption style="text-align:center">Highlight Appearing on a Website</figcaption>
   </center>
 </figure>
@@ -73,7 +73,7 @@ It's still a beginning, but slow and steady wins the race.
 
 <figure class="align-center">
     <center>
-    <img style="width:300px" src="/assets/images/post9-2023-03-07/twitterProgress.png"/>
+    <img src="/assets/images/post9-2023-03-07/twitterProgress.png"/>
     <figcaption style="text-align:center">My Twitter Account Progress (18.3.2023)</figcaption>
   </center>
 </figure>
@@ -91,7 +91,7 @@ I created a [Highlightra blog](https://highlightra.com/blog) where I write about
 
 <figure class="align-center">
     <center>
-    <img style="width:300px" src="/assets/images/post9-2023-03-07/blogposts.png"/>
+    <img src="/assets/images/post9-2023-03-07/blogposts.png"/>
     <figcaption style="text-align:center">First Two Blog Posts (18.3.2023)</figcaption>
   </center>
 </figure>
