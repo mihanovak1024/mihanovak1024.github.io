@@ -51,7 +51,7 @@ I created Highlightra to "highlight" incremental steps to product value. This ne
 
 <figure class="align-center">
     <center>
-    <img src="/assets/images/post9-2023-03-07/hero.jpg"/>
+    <img src="/assets/images/post9-2023-03-07/hero.png"/>
     <figcaption style="text-align:center">Highlight Appearing on a Website</figcaption>
   </center>
 </figure>
