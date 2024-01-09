@@ -1,19 +1,22 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "So yeah... I'm a 28-year old Software Engineer based in Slovenia, Europe."
+excerpt: "So yeah... I'm a 29-year old Software Engineer based in Slovenia, Europe."
 profile-photo:
   - image_path: /assets/images/about/miha_classy.jpg
     alt: "Profile photo"
 ---
 
-My name is <b style="color:#00adb5">Miha Novak</b> (it's a **male** name, I kid you not), and I'm a 28-year-old Software Engineer based in Slovenia, Europe.
+My name is <b style="color:#00adb5">Miha Novak</b>, and I'm a 29-year-old Software Engineer based in Slovenia, Europe.
 
 I've been programming professionally since my **20th** birthday.
 
-In the last year I have been working on a startup with a friend, developing a home-based arm exercising tool for post-stroke patients, called <a href="/portfolio/homeclinico" target="_blank">HomeClinico</a>,
-but upon a failed attempt have now dipped my toes into Frontend Development in Turtl. 
+For the past 2 years I've been a Senior Software Engineer and a Frontend Team Lead in Turtl. 
 Previous 6 years I was working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
+
+I never rest and have been part of 2 side projects:
+- <a href="/portfolio/homeclinico">HomeClinico</a> (cofounder) - a arm-exercise tool with a Mobile app as an interface
+- <a href="/portfolio/highlightra">Highlightra</a> (founder) - a simple onboarding tool for SaaS applications
 
 The number <b style="color:#00adb5">1024</b> next to my name comes from a codename that my University entitled me with and I was so fond of it, 
 I decided to use it everywhere, so it kind of became my signature.
@@ -36,6 +39,10 @@ Currently I only have one serious project in my arsenal; <a href="/portfolio/hom
 It is a startup/side-project that's solving a problem of COVID-19 and the lack of physiotherapists.
 HomeClinico is a home-based arm exercising tool for post-stroke patients and elderly with daily guided exercises. 
 The project however didn't make it out as we have hoped and we were forced to put it on life support.
+
+The other project I started was a SaaS called <a href="/portfolio/highlightra" target="_blank">Highlightra</a>, which is a simple onboarding tool for SaaS applications.
+It took me a while to get it up and running, but I learned a lot along the way.
+I lack the ability to market my products, that's why Highlightra is yet to get its first user base, but I don't doubt that it's a bad project nobody's going to use. It just needs a bit of a marketing push.
 
 ## Prototypes
 I like to tinker around different programming challenges and try to prototype my ideas.
@@ -66,7 +73,7 @@ Some books forced me to make <b style="color:#00adb5">16</b> A4 pages of notes.
 I really do fell lucky and proud, at the same time, to have worked alongside such talented people for these amazingly successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019) - 2015
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
-- [Turtl](https://turtl.co/) (A psychology-led, interactive alternative to the PDF) - 2022-**present**
+- [Turtl](https://turtl.co/) (A psychology-led, interactive, analytics-based alternative to the PDF) - 2022-**present**
 
 ### Infinum
 Back in 2015 I started my <b style="color:#00adb5">Android Engineer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
@@ -101,8 +108,11 @@ After a failed attempt at my own startup, I wanted to learn new things, so I jum
 I started with React but later on switched to Angular, since I foresaw enough challenges within Turtl's content creation program
 written in Angular and joined their team.
 
-I'm part of the Frontend team, but since the whole technical department is not as big, 
-I also write small chunks for the backend (NodeJS, Express) as well. 
+I'm a Frontend Team Lead on a team of 6 and I, but also write chunks for the backend (NodeJS, Express) as well.
+
+After working as a Senior Frontend Engineer for the past 2 years, I've been promoted to being a Team lead and managing project planning and throughput of my team.
+
+The biggest part of my work consisted of writing a PDF-to-Turtl parsing tool, which swallows any kind of PDF and turns it into the Turtl-format Document. It took me a year from R&D to finish project and 100 of Turtl's B2B customers are already using it.
 
 # Career Enhancement
 Being an Android Engineer for the past **7 years**, I wanted to see what else is out there. 
