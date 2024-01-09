@@ -37,6 +37,8 @@ After my "PDF Parser" project was done, I was promoted to Frontend Team Lead, wh
 I've always wanted to see what's it like leading a team and I'm currently enjoing it.
 I take care of planning and ensuring smooth delivery, new feature discovery and prototyping (for easier time estimation).
 
+You're always present in big picture discussions with other Team Leads and you can have a big impact with certain strategic decisions.
+
 # Conclusion
 
 It's been great working at Turtl and I can't wait to see what 2024 brings!
