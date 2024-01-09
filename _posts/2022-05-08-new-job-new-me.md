@@ -1,6 +1,6 @@
 ---
 title: "New Job, New Me"
-excerpt: "Working for Turtl's content creation SaaS on the Frontend (Angular) team"
+excerpt: "Working for Turtl's content creation SaaS on the Frontend (Angular) team."
 categories:
   - learning
 header:

@@ -1,6 +1,6 @@
 ---
 title: "2 years into Frontend"
-excerpt: "Becoming a Web Engineer, Team Lead and much more"
+excerpt: "Becoming a Web Engineer, Team Lead and much more."
 categories:
   - learning
 header:
