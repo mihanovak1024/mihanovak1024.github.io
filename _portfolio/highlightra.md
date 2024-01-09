@@ -9,7 +9,7 @@ sidebar:
     text: "Javascript, Angular, NodeJs, Express, MongoDB"
   - title: "Skills"
     text: "Marketing, UX/UI design, Backend and Frontend development, Analytics"
-  - title: "Hours ~200 and counting"
+  - title: "Hours ~300 and counting"
 ---
 
 I've started Highlightra in September 2022 when I said I'm gonna build a simple SaaS for making onboarding flows easy as pie.
