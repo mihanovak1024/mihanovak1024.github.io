@@ -11,7 +11,9 @@ My name is <b style="color:#00adb5">Miha Novak</b>, and I'm a 29-year-old Softwa
 
 I've been programming professionally since my **20th** birthday.
 
-For the past 2 years I've been a Senior Software Engineer and a Frontend Team Lead in Turtl. 
+From March 2024 I've joined the startup Playgap, which will disrupt Mobile Advertisement by providing an Offline Advertising solution, as a Senior Android Engineer.
+
+Previous 2 years I've been a Senior Software Engineer and a Frontend Team Lead in Turtl, a revolutionised content management platform based on psychological studies. 
 Previous 6 years I was working in Ad Technology space witnessing <b style="color:#00adb5">world class</b> trends in Mobile Advertisement sphere.
 
 I never rest and have been part of 2 side projects:
@@ -73,7 +75,8 @@ Some books forced me to make <b style="color:#00adb5">16</b> A4 pages of notes.
 I really do fell lucky and proud, at the same time, to have worked alongside such talented people for these amazingly successful companies: 
 - [Infinum](https://infinum.com/) (Web/Mobile development agency --- Croatian employer of the year 2015 **and** 2019) - 2015
 - [Outfit7](https://outfit7.com/) (the creator of Talking Tom **and** one of world's best Mobile Advertising Mediation) - 2015-2021
-- [Turtl](https://turtl.co/) (A psychology-led, interactive, analytics-based alternative to the PDF) - 2022-**present**
+- [Turtl](https://turtl.co/) (A psychology-led, interactive, analytics-based alternative to the PDF) - 2022-2024
+- [Playgap](https://playgap.io) (A Mobile Offline Advertisement soliton, that will disrupt Mobile Advertisement) - 2024 - **present**
 
 ### Infinum
 Back in 2015 I started my <b style="color:#00adb5">Android Engineer</b> journey at Infinum and I accumulated a hefty amount of Android development knowledge.
@@ -114,8 +117,19 @@ After working as a Senior Frontend Engineer for the past 2 years, I've been prom
 
 The biggest part of my work consisted of writing a PDF-to-Turtl parsing tool, which swallows any kind of PDF and turns it into the Turtl-format Document. It took me a year from R&D to finish project and 100 of Turtl's B2B customers are already using it.
 
+In the last days of my stay I've done extensive performance optimisation to the core Turtl product, making it at least 100% more efficient in terms of memory and CPU usage.
+
+### Playgap
+
+I'm responsible for Android Advertisement SDK that will be used in major players in Mobile Gaming such as Outfit7,...
+
+I'll also be dipping my toes into Analytics and data monitoring.
+
 # Career Enhancement
 Being an Android Engineer for the past **7 years**, I wanted to see what else is out there. 
 I decided to check out other types of Mobile development (Flutter, iOS, React Native) in my free time, 
 to see the tradeoffs of each and interconnect the concepts. 
-I wanted to transition into Web so I started studying React and ended up doing Angular on a job.
+I wanted to transition into Web so I started studying React and ended up upping my expertise in Angular.
+
+# Back to Mobile Advertisement
+I guess I didn't stay long in Frontend and jumped back on the Android AdTech bandwagon. This just proves, I'm a generalist not affraid to tackle anything being thrown at my way.
